@@ -1,0 +1,1526 @@
+restaurant_id,restaurant_name,locality,zone,cuisine,restaurant_type,avg_cost_for_two,rating,votes,online_delivery,table_booking,opened_year
+1000,Maharaja Hub,Fort,South Mumbai,Bakery & Desserts,Casual Dining,700,4.0,38,No,No,2015
+1001,Little Express,Churchgate,South Mumbai,Japanese & Asian,Casual Dining,1900,3.8,520,Yes,No,2014
+1002,Spice Hub,CHEMBUR ,Harbour,North Indian,Fine Dining,1950,3.7,94,No,Yes,2020
+1003,Little House,Lower Parel,South Mumbai,Street Food,Quick Bites,200,3.8,1296,Yes,No,2025
+1004,Coastal Corner,Fort,South Mumbai,Continental,Quick Bites,400,3.3,60,Yes,No,2018
+1005,Sea Cafe,Kurla,Central Mumbai,Chinese,Fine Dining,1450,3.6,195,Yes,Yes,2019
+1006,Maharaja Treat,Powai,Central Mumbai,North Indian,Cafe,900,3.2,87,Yes,Yes,2010
+1007,Bombay Express,Churchgate,South Mumbai,Continental,Casual Dining,800,3.5,171,Yes,Yes,2016
+1008,Royal Cafe,Dadar,Central Mumbai,North Indian,Casual Dining,1000,3.6,51,Yes,Yes,2024
+1009,Bombay House,Juhu,Western Suburbs,Continental,Casual Dining,1500,3.9,154,Yes,Yes,2022
+1010,Moon Darbar,Fort,South Mumbai,Chinese,Cafe,750,3.5,150,No,No,2008
+1011,Sea Junction,Andheri,Western Suburbs,Italian,Casual Dining,750,3.1,32,No,No,2025
+1012,Fresh Cafe,Malad,Western Suburbs,South Indian,Bar & Lounge,750,3.8,81,Yes,No,2007
+1013,Golden Kitchen,Malad,Western Suburbs,Biryani,Casual Dining,650,3.3,34,No,No,2020
+1014,Smoky Kitchen,Juhu,Western Suburbs,Mughlai,Casual Dining,1200,3.3,148,Yes,Yes,2018
+1015,Spice Treat,Churchgate,South Mumbai,Biryani,Casual Dining,650,3.3,89,Yes,Yes,2012
+1016,Bombay Treat,Churchgate,South Mumbai,Fast Food,Casual Dining,550,3.9,1232,No,No,2016
+1017,Sea House,Malad,Western Suburbs,Bakery & Desserts,Casual Dining,400,3.3,111,No,Yes,2022
+1018,Moon Palace,Juhu,Western Suburbs,Seafood,Quick Bites,450,3.6,789,Yes,No,2025
+1019,Royal Hub,BANDRA ,Western Suburbs,Italian,Casual Dining,2900,3.7,370,No,Yes,2011
+1020,Sea Treat,Sion,Central Mumbai,Seafood,Quick Bites,250,3.7,115,No,No,2006
+1021,Desi Junction,Ghatkopar,Central Mumbai,Japanese & Asian,Fine Dining,3000,4.3,342,No,Yes,2018
+1022,Spice Grill,Ghatkopar,Central Mumbai,Biryani,Quick Bites,150,3.0,439,Yes,No,2012
+1023,Grand Treat,Dadar,Central Mumbai,Biryani,Quick Bites,150,3.8,132,Yes,Yes,2015
+1024,Desi Corner,Lower Parel,South Mumbai,Italian,Quick Bites,650,3.0,95,Yes,No,2023
+1025,Fresh Bistro,Powai,Central Mumbai,North Indian,Cafe,750,3.5,110,No,No,2015
+1026,Grand Bistro,BORIVALI ,Western Suburbs,South Indian,Bar & Lounge,700,3.6,188,Yes,Yes,2005
+1027,Coastal Grill,Thane,Thane,Chinese,Bar & Lounge,1050,3.1,63,Yes,No,2005
+1028,Spice House,Bandra,Western Suburbs,Bakery & Desserts,Quick Bites,250,3.3,78,Yes,No,2025
+1029,Little Hub,Chembur,Harbour,South Indian,Quick Bites,100,3.1,562,Yes,No,2007
+1030,Coastal Darbar,Andheri,Western Suburbs,Chinese,Fine Dining,1550,3.6,323,No,Yes,2014
+1031,Royal Express,Churchgate,South Mumbai,Seafood,Quick Bites,450,3.4,209,Yes,No,2019
+1032,Golden Cafe,Thane,Thane,Seafood,Fine Dining,1900,3.8,172,No,Yes,2010
+1033,Hungry House,COLABA ,South Mumbai,North Indian,Casual Dining,900,4.2,329,Yes,No,2024
+1034,Coastal Palace,Powai,Central Mumbai,Japanese & Asian,Bar & Lounge,2600,4.0,232,Yes,Yes,2011
+1035,Grand Kitchen,Borivali,Western Suburbs,Fast Food,Casual Dining,300,3.5,193,Yes,No,2007
+1036,Urban Corner,Dadar,Central Mumbai,Italian,Casual Dining,1300,3.6,152,Yes,No,2019
+1037,Little Darbar,Vashi,Navi Mumbai,Japanese & Asian,Casual Dining,1350,4.2,385,Yes,No,2021
+1038,Moon Table,Fort,South Mumbai,South Indian,Cafe,300,3.9,172,Yes,No,2017
+1039,Desi Treat,FORT ,South Mumbai,Seafood,Quick Bites,300,3.4,533,Yes,No,2021
+1040,Royal Table,Fort,South Mumbai,South Indian,Casual Dining,500,3.7,492,Yes,No,2020
+1041,Smoky Grill,Ghatkopar,Central Mumbai,Fast Food,Casual Dining,200,3.3,215,Yes,No,2007
+1042,Grand Palace,Ghatkopar,Central Mumbai,Continental,Cafe,800,3.9,252,Yes,No,2016
+1043,Urban Bistro,Juhu,Western Suburbs,South Indian,Quick Bites,300,3.2,104,Yes,No,2020
+1044,Grand Hub,Andheri,Western Suburbs,Bakery & Desserts,Casual Dining,550,4.0,478,Yes,No,2023
+1045,Spice Palace,Sion,Central Mumbai,Chinese,Casual Dining,600,3.6,522,Yes,No,2022
+1046,Tandoor Hub,Juhu,Western Suburbs,Continental,Casual Dining,1650,3.8,52,No,Yes,2021
+1047,Spice Corner,Chembur,Harbour,North Indian,Bar & Lounge,1200,3.7,345,Yes,Yes,2023
+1048,Desi Kitchen,Malad,Western Suburbs,Chinese,Cafe,600,3.4,218,Yes,Yes,2022
+1049,Smoky Hub,Dadar,Central Mumbai,Fast Food,Quick Bites,100,3.3,248,Yes,No,2024
+1050,Spice Grill,Powai,Central Mumbai,Japanese & Asian,Quick Bites,450,4.1,260,Yes,No,2006
+1051,Sea Kitchen,Lower Parel,South Mumbai,North Indian,Cafe,1400,3.3,180,Yes,No,2017
+1052,Coastal Treat,Malad,Western Suburbs,Biryani,Quick Bites,200,3.3,48,Yes,No,2023
+1053,Urban Cafe,Dadar,Central Mumbai,Continental,Bar & Lounge,1650,3.2,305,No,Yes,2018
+1054,Moon Cafe,Malad,Western Suburbs,Seafood,Casual Dining,1600,4.4,324,Yes,No,2021
+1055,Bombay Table,Dadar,Central Mumbai,Street Food,Casual Dining,250,3.0,15,Yes,No,2011
+1056,Maharaja Corner,Malad,Western Suburbs,Continental,Quick Bites,250,,111,Yes,No,2010
+1057,Maharaja Grill,Powai,Central Mumbai,Street Food,Casual Dining,400,4.6,437,No,No,2020
+1058,Tandoor Treat,Chembur,Harbour,Seafood,Casual Dining,850,3.8,87,Yes,Yes,2023
+1059,Royal Kitchen,Chembur,Harbour,Bakery & Desserts,Quick Bites,200,3.4,317,Yes,No,2020
+1060,Maharaja House,Kurla,Central Mumbai,Japanese & Asian,Casual Dining,1250,3.2,30,No,No,2014
+1061,Sea Junction,Ghatkopar,Central Mumbai,Continental,Cafe,450,,149,Yes,No,2005
+1062,Golden Grill,Malad,Western Suburbs,Chinese,Quick Bites,300,4.1,100,No,No,2015
+1063,Tandoor Tadka,Malad,Western Suburbs,Japanese & Asian,Quick Bites,400,3.6,657,Yes,No,2008
+1064,Fresh Treat,Vashi,Navi Mumbai,North Indian,Quick Bites,300,3.3,355,Yes,No,2022
+1065,Bombay Palace,Chembur,Harbour,Japanese & Asian,Cafe,900,3.6,193,Yes,No,2012
+1066,Tandoor Tadka,Vashi,Navi Mumbai,Japanese & Asian,Casual Dining,1300,4.3,260,Yes,No,2013
+1067,Little Table,Andheri,Western Suburbs,Seafood,Casual Dining,950,3.6,217,Yes,Yes,2018
+1068,Urban Table,Juhu,Western Suburbs,Italian,Quick Bites,450,3.8,223,Yes,No,2008
+1069,Bombay Corner,Kurla,Central Mumbai,Seafood,Bar & Lounge,2050,4.0,176,No,No,2023
+1070,Bombay Express,Sion,Central Mumbai,Bakery & Desserts,Fine Dining,1250,4.3,97,No,No,2007
+1071,Sea Hub,Thane,Thane,Chinese,Cafe,300,3.0,67,No,No,2015
+1072,Maharaja Grill,Juhu,Western Suburbs,Fast Food,Casual Dining,500,4.1,136,No,No,2010
+1073,Hungry Corner,Colaba,South Mumbai,North Indian,Quick Bites,300,3.8,52,No,No,2021
+1074,Little Kitchen,Goregaon,Western Suburbs,Bakery & Desserts,Quick Bites,150,4.0,148,Yes,No,2016
+1075,Tandoor Express,Colaba,South Mumbai,Bakery & Desserts,Fine Dining,2500,3.6,18,No,Yes,2012
+1076,Bombay Bistro,Kurla,Central Mumbai,Mughlai,Casual Dining,650,3.4,50,Yes,No,2013
+1077,Moon Darbar,Powai,Central Mumbai,Seafood,Quick Bites,400,3.6,279,Yes,No,2025
+1078,Spice Kitchen,Fort,South Mumbai,Street Food,Bar & Lounge,1100,3.6,721,No,Yes,2011
+1079,Bombay Express,Malad,Western Suburbs,Fast Food,Casual Dining,350,2.9,90,Yes,No,2016
+1080,Golden Table,Andheri,Western Suburbs,Italian,Casual Dining,1300,3.5,14,Yes,Yes,2022
+1081,Hungry Table,Bandra,Western Suburbs,South Indian,Quick Bites,450,3.9,289,Yes,No,2021
+1082,Hungry Bistro,Thane,Thane,Fast Food,Cafe,250,3.3,257,No,No,2021
+1083,Tandoor Kitchen,Borivali,Western Suburbs,Fast Food,Quick Bites,100,3.1,53,Yes,No,2010
+1084,Smoky Kitchen,Bandra,Western Suburbs,Seafood,Casual Dining,1600,3.5,140,Yes,Yes,2025
+1085,Tandoor Darbar,Juhu,Western Suburbs,Continental,Casual Dining,1450,4.0,87,Yes,No,2005
+1086,Golden Junction,Colaba,South Mumbai,South Indian,Casual Dining,650,3.4,125,Yes,No,2023
+1087,Golden Tadka,Kurla,Central Mumbai,Street Food,Casual Dining,300,3.0,36,Yes,Yes,2019
+1088,Urban Bistro,Juhu,Western Suburbs,Chinese,Bar & Lounge,1950,4.1,495,No,Yes,2006
+1089,Coastal Treat,Dadar,Central Mumbai,Italian,Fine Dining,2650,4.2,1310,No,No,2008
+1090,Spice House,Juhu,Western Suburbs,South Indian,Bar & Lounge,950,4.4,1520,No,Yes,2016
+1091,Coastal Tadka,Powai,Central Mumbai,Chinese,Quick Bites,350,3.9,362,Yes,Yes,2005
+1092,Spice Tadka,Kurla,Central Mumbai,Chinese,Cafe,600,4.0,752,Yes,Yes,2021
+1093,Fresh Tadka,Churchgate,South Mumbai,Biryani,Quick Bites,250,3.1,102,No,No,2005
+1094,Urban Cafe,Andheri,Western Suburbs,Chinese,Fine Dining,2000,3.7,65,Yes,Yes,2007
+1095,Bombay Grill,Juhu,Western Suburbs,Street Food,Fine Dining,1100,4.0,574,No,Yes,2023
+1096,Sea Palace,Lower Parel,South Mumbai,Seafood,Casual Dining,1800,4.3,757,No,No,2024
+1097,Royal Palace,Borivali,Western Suburbs,Fast Food,Cafe,250,3.3,71,Yes,No,2023
+1098,Hungry Treat,Malad,Western Suburbs,Chinese,Bar & Lounge,1100,4.1,84,No,No,2018
+1099,Maharaja Treat,Andheri,Western Suburbs,Street Food,Cafe,150,3.7,710,No,No,2007
+1100,Golden Hub,Chembur,Harbour,Bakery & Desserts,Quick Bites,250,4.2,192,Yes,No,2024
+1101,Tandoor Kitchen,Chembur,Harbour,Mughlai,Casual Dining,1950,4.0,117,No,No,2017
+1102,Sea Corner,Fort,South Mumbai,Italian,Casual Dining,1400,3.7,235,Yes,No,2020
+1103,Spice Hub,Bandra,Western Suburbs,Italian,Cafe,1250,3.6,339,Yes,No,2008
+1104,Bombay Treat,Malad,Western Suburbs,South Indian,Quick Bites,100,3.7,184,Yes,No,2007
+1105,Smoky Junction,Juhu,Western Suburbs,South Indian,Fine Dining,1800,4.1,88,Yes,Yes,2025
+1106,Tandoor Express,Vashi,Navi Mumbai,South Indian,Casual Dining,250,2.9,43,Yes,Yes,2014
+1107,Grand Grill,Churchgate,South Mumbai,Chinese,Casual Dining,700,3.8,47,No,No,2013
+1108,Tandoor Cafe,Colaba,South Mumbai,Italian,Bar & Lounge,4700,3.9,64,No,Yes,2018
+1109,Little Express,Goregaon,Western Suburbs,North Indian,Quick Bites,350,3.9,744,Yes,No,2016
+1110,Sea Treat,Juhu,Western Suburbs,Chinese,Bar & Lounge,1950,3.6,138,No,Yes,2022
+1111,Urban Darbar,Goregaon,Western Suburbs,Street Food,Quick Bites,100,3.9,900,Yes,No,2008
+1112,Desi Table,Churchgate,South Mumbai,South Indian,Quick Bites,250,3.7,386,Yes,No,2016
+1113,Urban Grill,Borivali,Western Suburbs,Mughlai,Bar & Lounge,1450,2.3,12,No,Yes,2008
+1114,Bombay Grill,Dadar,Central Mumbai,North Indian,Casual Dining,700,,304,Yes,No,2016
+1115,Bombay House,Goregaon,Western Suburbs,South Indian,Quick Bites,100,3.4,70,Yes,No,2014
+1116,Fresh Treat,Powai,Central Mumbai,Mughlai,Casual Dining,1350,3.4,53,Yes,No,2006
+1117,Moon Table,Malad,Western Suburbs,Mughlai,Casual Dining,900,3.8,264,Yes,No,2005
+1118,Hungry Hub,Ghatkopar,Central Mumbai,Biryani,Bar & Lounge,950,3.4,299,No,No,2013
+1119,Maharaja Darbar,Goregaon,Western Suburbs,Japanese & Asian,Cafe,950,3.6,337,Yes,No,2018
+1120,Fresh Corner,Malad,Western Suburbs,Continental,Quick Bites,350,3.7,124,Yes,No,2021
+1121,Smoky Tadka,Lower Parel,South Mumbai,Chinese,Fine Dining,2150,3.5,155,Yes,Yes,2010
+1122,Smoky Hub,Juhu,Western Suburbs,Biryani,Bar & Lounge,1850,4.0,33,No,Yes,2011
+1123,Hungry Express,Sion,Central Mumbai,North Indian,Bar & Lounge,1350,3.5,229,No,Yes,2013
+1124,Fresh Treat,Andheri,Western Suburbs,Continental,Bar & Lounge,2350,3.4,329,No,Yes,2021
+1125,Desi Hub,Bandra,Western Suburbs,Street Food,Bar & Lounge,750,3.9,66,No,Yes,2021
+1126,Little Table,Sion,Central Mumbai,Continental,Quick Bites,300,3.7,193,Yes,No,2018
+1127,Grand Bistro,Powai,Central Mumbai,South Indian,Quick Bites,200,3.2,175,Yes,No,2022
+1128,Royal House,Dadar,Central Mumbai,Chinese,Casual Dining,500,3.3,155,Yes,No,2011
+1129,Spice Cafe,Thane,Thane,Mughlai,Quick Bites,300,3.5,163,Yes,No,2018
+1130,Smoky Corner,Dadar,Central Mumbai,Italian,Casual Dining,900,3.7,356,No,No,2005
+1131,Spice Darbar,Borivali,Western Suburbs,Chinese,Cafe,550,3.9,565,Yes,No,2013
+1132,Tandoor Junction,Ghatkopar,Central Mumbai,Street Food,Cafe,150,3.2,377,No,No,2008
+1133,Desi Junction,Malad,Western Suburbs,Italian,Quick Bites,350,3.9,147,Yes,No,2016
+1134,Fresh Grill,Bandra,Western Suburbs,North Indian,Casual Dining,1250,3.7,136,Yes,Yes,2006
+1135,Grand Express,Chembur,Harbour,South Indian,Casual Dining,400,,190,Yes,No,2020
+1136,Bombay Darbar,Lower Parel,South Mumbai,Seafood,Cafe,1800,3.0,16,No,Yes,2020
+1137,Urban Grill,Fort,South Mumbai,Street Food,Quick Bites,150,3.6,382,Yes,No,2007
+1138,Coastal Cafe,Vashi,Navi Mumbai,Street Food,Fine Dining,1100,2.7,21,No,Yes,2010
+1139,Coastal Express,Ghatkopar,Central Mumbai,North Indian,Casual Dining,1350,4.2,179,Yes,No,2006
+1140,Urban House,Sion,Central Mumbai,South Indian,Casual Dining,400,3.0,50,Yes,No,2008
+1141,Coastal Table,Juhu,Western Suburbs,Continental,Cafe,1250,3.7,50,No,No,2023
+1142,Hungry Cafe,Chembur,Harbour,Japanese & Asian,Casual Dining,1650,3.6,315,Yes,Yes,2011
+1143,Golden Bistro,Kurla,Central Mumbai,North Indian,Quick Bites,150,3.2,170,No,No,2007
+1144,Tandoor Darbar,Andheri,Western Suburbs,Street Food,Quick Bites,200,3.6,357,No,No,2019
+1145,Spice Hub,Fort,South Mumbai,Bakery & Desserts,Quick Bites,100,3.1,355,Yes,No,2020
+1146,Spice Table,Churchgate,South Mumbai,Fast Food,Quick Bites,200,3.8,112,Yes,No,2021
+1147,Little Grill,Thane,Thane,South Indian,Casual Dining,250,3.5,199,Yes,Yes,2017
+1148,Bombay House,Lower Parel,South Mumbai,Italian,Quick Bites,750,3.3,575,Yes,No,2012
+1149,Desi House,Vashi,Navi Mumbai,Bakery & Desserts,Casual Dining,300,3.8,738,Yes,No,2014
+1150,Maharaja Palace,ANDHERI ,Western Suburbs,South Indian,Casual Dining,550,4.2,168,Yes,Yes,2021
+1151,Smoky Bistro,Dadar,Central Mumbai,Bakery & Desserts,Quick Bites,150,3.8,338,Yes,No,2019
+1152,Desi Corner,Chembur,Harbour,Street Food,Bar & Lounge,500,3.6,93,No,Yes,2012
+1153,Grand Hub,Ghatkopar,Central Mumbai,Chinese,Casual Dining,800,3.6,201,No,No,2011
+1154,Golden Express,Chembur,Harbour,Seafood,Quick Bites,300,3.4,20,No,No,2021
+1155,Golden Express,Chembur,Harbour,Japanese & Asian,Casual Dining,1300,2.9,159,Yes,No,2015
+1156,Desi Grill,Ghatkopar,Central Mumbai,Mughlai,Casual Dining,400,3.4,47,No,Yes,2019
+1157,Grand Table,Juhu,Western Suburbs,Biryani,Quick Bites,350,3.1,314,Yes,No,2008
+1158,Little Bistro,Powai,Central Mumbai,Mughlai,Quick Bites,500,3.8,45,Yes,No,2008
+1159,Moon Table,Fort,South Mumbai,Seafood,Casual Dining,1450,4.4,464,No,No,2018
+1160,Little Hub,Andheri,Western Suburbs,Continental,Casual Dining,1250,3.5,58,Yes,No,2016
+1161,Desi Kitchen,Juhu,Western Suburbs,Seafood,Quick Bites,600,3.2,160,Yes,No,2022
+1162,Urban Hub,Fort,South Mumbai,Japanese & Asian,Casual Dining,1500,3.6,366,Yes,Yes,2015
+1163,Moon Bistro,Juhu,Western Suburbs,Italian,Quick Bites,700,4.0,56,Yes,No,2025
+1164,Golden Hub,Sion,Central Mumbai,Chinese,Cafe,550,3.6,208,No,No,2014
+1165,Tandoor Express,Malad,Western Suburbs,Japanese & Asian,Casual Dining,1250,4.0,83,Yes,No,2021
+1166,Grand Cafe,Chembur,Harbour,Mughlai,Quick Bites,350,2.9,490,Yes,No,2023
+1167,Golden Darbar,Thane,Thane,North Indian,Quick Bites,250,3.3,74,No,No,2016
+1168,Coastal Hub,Sion,Central Mumbai,Mughlai,Quick Bites,250,4.3,68,Yes,No,2014
+1169,Little House,Bandra,Western Suburbs,Street Food,Bar & Lounge,950,3.7,144,No,Yes,2008
+1170,Fresh Hub,Lower Parel,South Mumbai,Biryani,Casual Dining,1250,4.0,433,Yes,Yes,2017
+1171,Maharaja Express,Malad,Western Suburbs,Seafood,Casual Dining,900,2.5,21,Yes,Yes,2015
+1172,Royal Treat,Ghatkopar,Central Mumbai,Mughlai,Quick Bites,250,3.6,1304,No,No,2020
+1173,Grand Darbar,Fort,South Mumbai,Bakery & Desserts,Cafe,400,4.1,216,No,No,2022
+1174,Bombay Grill,GOREGAON ,Western Suburbs,Mughlai,Cafe,550,3.2,176,Yes,No,2015
+1175,Golden Bistro,MALAD ,Western Suburbs,Seafood,Cafe,750,3.9,201,No,No,2020
+1176,Hungry Express,Dadar,Central Mumbai,Chinese,Bar & Lounge,1200,4.3,421,No,No,2008
+1177,Urban Cafe,Kurla,Central Mumbai,Japanese & Asian,Casual Dining,700,3.5,174,Yes,No,2011
+1178,Spice Grill,Powai,Central Mumbai,Biryani,Quick Bites,200,3.7,61,Yes,No,2010
+1179,Hungry Tadka,Bandra,Western Suburbs,Street Food,Quick Bites,150,3.8,28,Yes,No,2020
+1180,Maharaja Palace,Andheri,Western Suburbs,Chinese,Casual Dining,1000,2.9,20,No,No,2018
+1181,Grand Express,Sion,Central Mumbai,North Indian,Bar & Lounge,650,3.5,125,No,Yes,2021
+1182,Smoky Express,Kurla,Central Mumbai,North Indian,Casual Dining,750,3.6,212,No,Yes,2019
+1183,Smoky Darbar,Bandra,Western Suburbs,Italian,Fine Dining,3300,4.5,261,No,Yes,2011
+1184,Golden Darbar,Powai,Central Mumbai,Mughlai,Bar & Lounge,1300,3.5,243,Yes,Yes,2018
+1185,Tandoor Cafe,Thane,Thane,Bakery & Desserts,Fine Dining,900,3.3,253,No,No,2022
+1186,Hungry Hub,Ghatkopar,Central Mumbai,Chinese,Cafe,350,3.2,65,Yes,No,2025
+1187,Sea Grill,Goregaon,Western Suburbs,Biryani,Cafe,500,3.5,40,Yes,No,2009
+1188,Smoky Bistro,Andheri,Western Suburbs,Fast Food,Quick Bites,200,3.5,243,Yes,No,2008
+1189,Golden Express,Andheri,Western Suburbs,Italian,Quick Bites,350,3.1,30,Yes,No,2018
+1190,Spice Palace,Churchgate,South Mumbai,Street Food,Casual Dining,400,,99,Yes,No,2007
+1191,Urban Express,Lower Parel,South Mumbai,Italian,Casual Dining,1850,3.9,168,Yes,Yes,2021
+1192,Tandoor Grill,Churchgate,South Mumbai,South Indian,Quick Bites,150,3.8,2598,Yes,No,2006
+1193,Bombay Cafe,Churchgate,South Mumbai,Bakery & Desserts,Cafe,600,3.7,482,Yes,Yes,2022
+1194,Spice Palace,Chembur,Harbour,Japanese & Asian,Casual Dining,1050,3.7,171,No,No,2025
+1195,Desi House,Goregaon,Western Suburbs,North Indian,Casual Dining,550,3.7,19,Yes,No,2007
+1196,Smoky Cafe,Kurla,Central Mumbai,Seafood,Casual Dining,800,3.2,73,No,No,2010
+1197,Golden Darbar,Borivali,Western Suburbs,Bakery & Desserts,Cafe,200,3.7,195,Yes,No,2025
+1198,Spice Cafe,Sion,Central Mumbai,Continental,Bar & Lounge,1350,3.7,174,No,Yes,2017
+1199,Desi Junction,Thane,Thane,Continental,Casual Dining,850,3.0,242,No,Yes,2018
+1200,Little Junction,Malad,Western Suburbs,Italian,Cafe,650,4.0,124,No,Yes,2022
+1201,Moon Junction,Goregaon,Western Suburbs,Street Food,Quick Bites,100,3.0,61,Yes,No,2009
+1202,Spice Table,Powai,Central Mumbai,Italian,Quick Bites,450,3.3,81,Yes,No,2007
+1203,Little Kitchen,Malad,Western Suburbs,Chinese,Cafe,650,3.5,87,Yes,Yes,2012
+1204,Sea Darbar,Bandra,Western Suburbs,Fast Food,Fine Dining,1400,3.6,277,Yes,Yes,2012
+1205,Moon Bistro,Fort,South Mumbai,North Indian,Quick Bites,350,3.3,78,Yes,No,2021
+1206,Urban Treat,Juhu,Western Suburbs,Mughlai,Casual Dining,900,3.5,338,Yes,No,2021
+1207,Urban Corner,Bandra,Western Suburbs,Continental,Quick Bites,600,3.3,231,Yes,No,2022
+1208,Moon Express,Lower Parel,South Mumbai,South Indian,Quick Bites,200,3.4,75,Yes,No,2010
+1209,Coastal Express,SION ,Central Mumbai,Continental,Casual Dining,900,3.2,57,Yes,No,2019
+1210,Smoky Cafe,Colaba,South Mumbai,Street Food,Quick Bites,200,3.4,1717,Yes,No,2005
+1211,Little Hub,Ghatkopar,Central Mumbai,Fast Food,Casual Dining,500,3.6,47,Yes,No,2016
+1212,Maharaja Treat,Churchgate,South Mumbai,North Indian,Casual Dining,550,3.3,234,No,No,2017
+1213,Golden Express,Lower Parel,South Mumbai,Continental,Quick Bites,500,3.8,143,Yes,No,2020
+1214,Tandoor Table,Thane,Thane,Chinese,Bar & Lounge,1050,,239,No,No,2008
+1215,Desi Grill,Bandra,Western Suburbs,Italian,Casual Dining,1700,4.2,44,Yes,Yes,2009
+1216,Hungry Table,Kurla,Central Mumbai,South Indian,Casual Dining,450,3.7,269,No,No,2011
+1217,Maharaja Treat,Lower Parel,South Mumbai,Street Food,Fine Dining,1450,4.1,975,No,Yes,2025
+1218,Coastal Table,Thane,Thane,South Indian,Casual Dining,500,3.7,188,Yes,No,2021
+1219,Hungry Kitchen,Andheri,Western Suburbs,Continental,Quick Bites,450,3.0,30,Yes,No,2009
+1220,Bombay Kitchen,Lower Parel,South Mumbai,North Indian,Casual Dining,1050,3.8,144,Yes,No,2021
+1221,Grand House,COLABA ,South Mumbai,North Indian,Quick Bites,300,3.9,77,Yes,No,2006
+1222,Desi Darbar,Churchgate,South Mumbai,North Indian,Quick Bites,400,3.5,183,Yes,No,2009
+1223,Moon Palace,Dadar,Central Mumbai,Fast Food,Casual Dining,500,4.2,937,Yes,No,2009
+1224,Bombay Palace,Malad,Western Suburbs,Biryani,Quick Bites,100,3.6,61,Yes,No,2005
+1225,Little Table,Fort,South Mumbai,Japanese & Asian,Casual Dining,900,3.6,95,Yes,Yes,2014
+1226,Sea Tadka,Churchgate,South Mumbai,Bakery & Desserts,Bar & Lounge,1400,3.9,181,No,Yes,2023
+1227,Moon Kitchen,Ghatkopar,Central Mumbai,Biryani,Fine Dining,1150,3.8,310,No,Yes,2022
+1228,Fresh Palace,Malad,Western Suburbs,Continental,Casual Dining,900,3.0,37,No,No,2020
+1229,Sea House,Borivali,Western Suburbs,Seafood,Bar & Lounge,1200,3.8,364,No,No,2009
+1230,Smoky Cafe,Borivali,Western Suburbs,Biryani,Quick Bites,250,3.4,48,Yes,No,2007
+1231,Fresh Tadka,Bandra,Western Suburbs,Chinese,Bar & Lounge,1900,3.2,59,Yes,Yes,2012
+1232,Hungry Grill,GHATKOPAR ,Central Mumbai,Bakery & Desserts,Quick Bites,100,3.2,141,Yes,No,2010
+1233,Spice Darbar,Sion,Central Mumbai,Italian,Fine Dining,1950,3.6,129,Yes,Yes,2019
+1234,Tandoor Kitchen,Malad,Western Suburbs,Chinese,Casual Dining,850,3.5,112,Yes,No,2011
+1235,Spice Palace,Sion,Central Mumbai,Bakery & Desserts,Quick Bites,200,3.7,203,Yes,No,2022
+1236,Fresh Bistro,Lower Parel,South Mumbai,Mughlai,Quick Bites,500,3.4,66,Yes,No,2011
+1237,Coastal Cafe,Colaba,South Mumbai,Fast Food,Cafe,500,3.8,173,No,Yes,2024
+1238,Golden Kitchen,Andheri,Western Suburbs,Continental,Casual Dining,1200,3.2,320,Yes,No,2015
+1239,Little Hub,Juhu,Western Suburbs,North Indian,Bar & Lounge,2450,,789,No,Yes,2010
+1240,Desi Express,Borivali,Western Suburbs,Continental,Bar & Lounge,1500,3.3,142,No,Yes,2007
+1241,Grand Corner,Juhu,Western Suburbs,Street Food,Casual Dining,400,4.1,153,Yes,No,2011
+1242,Maharaja Junction,Dadar,Central Mumbai,Italian,Cafe,1000,3.3,164,Yes,No,2014
+1243,Hungry Treat,Malad,Western Suburbs,Mughlai,Fine Dining,2450,3.9,224,Yes,Yes,2012
+1244,Golden Table,Borivali,Western Suburbs,Chinese,Quick Bites,200,3.6,103,Yes,No,2019
+1245,Hungry Treat,Thane,Thane,Continental,Quick Bites,350,3.4,117,Yes,No,2017
+1246,Grand Kitchen,Dadar,Central Mumbai,South Indian,Quick Bites,100,2.9,72,Yes,No,2024
+1247,Tandoor Cafe,Andheri,Western Suburbs,Continental,Casual Dining,900,3.8,267,No,No,2009
+1248,Spice Palace,Andheri,Western Suburbs,Fast Food,Casual Dining,400,3.3,192,No,No,2008
+1249,Smoky Tadka,Goregaon,Western Suburbs,Chinese,Cafe,650,3.2,22,No,Yes,2025
+1250,Maharaja Grill,Bandra,Western Suburbs,Mughlai,Quick Bites,450,3.5,523,Yes,No,2025
+1251,Royal Kitchen,Goregaon,Western Suburbs,Japanese & Asian,Casual Dining,1350,3.8,149,Yes,No,2023
+1252,Hungry Express,Vashi,Navi Mumbai,Continental,Casual Dining,950,3.3,134,Yes,No,2017
+1253,Tandoor Treat,Dadar,Central Mumbai,Seafood,Fine Dining,2650,4.7,275,No,Yes,2025
+1254,Urban Hub,Vashi,Navi Mumbai,Seafood,Quick Bites,350,,187,Yes,No,2013
+1255,Royal Junction,Kurla,Central Mumbai,South Indian,Casual Dining,500,3.3,141,Yes,Yes,2010
+1256,Hungry Palace,Goregaon,Western Suburbs,Fast Food,Fine Dining,1150,3.7,84,No,Yes,2019
+1257,Moon Tadka,Fort,South Mumbai,Biryani,Casual Dining,1100,3.9,352,Yes,No,2006
+1258,Sea Darbar,Sion,Central Mumbai,Fast Food,Casual Dining,300,3.2,89,No,Yes,2015
+1259,Spice Treat,Kurla,Central Mumbai,Mughlai,Quick Bites,200,4.1,296,No,No,2006
+1260,Little Junction,Goregaon,Western Suburbs,Japanese & Asian,Quick Bites,400,4.2,425,Yes,No,2016
+1261,Tandoor Cafe,Bandra,Western Suburbs,Mughlai,Quick Bites,450,,143,Yes,No,2012
+1262,Desi Grill,Colaba,South Mumbai,Street Food,Casual Dining,650,3.6,106,Yes,No,2025
+1263,Moon Corner,Kurla,Central Mumbai,Seafood,Casual Dining,1300,3.2,118,Yes,No,2020
+1264,Maharaja Tadka,Chembur,Harbour,Japanese & Asian,Casual Dining,1050,3.7,85,Yes,No,2019
+1265,Grand Corner,Lower Parel,South Mumbai,Chinese,Cafe,900,3.3,39,Yes,Yes,2019
+1266,Urban Corner,Malad,Western Suburbs,Japanese & Asian,Cafe,700,3.4,414,No,No,2017
+1267,Royal Hub,Juhu,Western Suburbs,Biryani,Cafe,550,3.6,459,No,No,2024
+1268,Sea Table,Bandra,Western Suburbs,Continental,Casual Dining,1200,3.9,255,No,No,2022
+1269,Tandoor Bistro,Fort,South Mumbai,Street Food,Quick Bites,150,3.8,326,Yes,No,2021
+1270,Tandoor Hub,Chembur,Harbour,North Indian,Quick Bites,300,3.9,229,Yes,No,2007
+1271,Little Palace,Dadar,Central Mumbai,Continental,Casual Dining,1000,4.1,307,Yes,No,2013
+1272,Maharaja Palace,Powai,Central Mumbai,Street Food,Casual Dining,300,3.8,527,Yes,No,2005
+1273,Grand Express,Fort,South Mumbai,Fast Food,Fine Dining,1050,,103,Yes,Yes,2022
+1274,Tandoor Darbar,Ghatkopar,Central Mumbai,Continental,Cafe,1050,3.6,513,No,Yes,2011
+1275,Desi Kitchen,Malad,Western Suburbs,Chinese,Cafe,550,3.4,197,Yes,No,2012
+1276,Smoky Tadka,Goregaon,Western Suburbs,South Indian,Casual Dining,500,2.7,124,Yes,Yes,2014
+1277,Grand Junction,Kurla,Central Mumbai,Fast Food,Quick Bites,100,3.4,88,No,No,2021
+1278,Maharaja Kitchen,Andheri,Western Suburbs,Biryani,Quick Bites,350,3.5,23,Yes,No,2025
+1279,Golden Corner,Bandra,Western Suburbs,Street Food,Quick Bites,200,3.9,357,No,No,2020
+1280,Maharaja Corner,Lower Parel,South Mumbai,Italian,Casual Dining,1800,4.2,1068,No,No,2009
+1281,Little Grill,Borivali,Western Suburbs,Fast Food,Quick Bites,150,3.3,57,Yes,No,2024
+1282,Royal Corner,Ghatkopar,Central Mumbai,Bakery & Desserts,Quick Bites,150,2.6,113,Yes,No,2006
+1283,Fresh Kitchen,Powai,Central Mumbai,Japanese & Asian,Casual Dining,1450,4.0,127,Yes,No,2017
+1284,Hungry Treat,KURLA ,Central Mumbai,Bakery & Desserts,Bar & Lounge,800,,121,No,Yes,2015
+1285,Coastal Cafe,Goregaon,Western Suburbs,Japanese & Asian,Casual Dining,1150,3.9,263,Yes,No,2021
+1286,Maharaja Corner,Colaba,South Mumbai,Mughlai,Quick Bites,500,3.6,19,Yes,No,2008
+1287,Fresh Palace,Lower Parel,South Mumbai,North Indian,Fine Dining,4300,3.7,98,No,Yes,2014
+1288,Urban House,Andheri,Western Suburbs,Seafood,Casual Dining,1050,3.7,483,No,No,2025
+1289,Spice Grill,Bandra,Western Suburbs,Fast Food,Casual Dining,500,3.7,140,Yes,No,2021
+1290,Bombay Express,Vashi,Navi Mumbai,Fast Food,Casual Dining,500,3.5,158,Yes,Yes,2020
+1291,Little Palace,Powai,Central Mumbai,Biryani,Quick Bites,250,3.9,427,Yes,No,2010
+1292,Grand Bistro,Sion,Central Mumbai,Fast Food,Casual Dining,350,3.9,118,Yes,Yes,2011
+1293,Urban House,CHEMBUR ,Harbour,Street Food,Quick Bites,100,3.2,78,Yes,No,2016
+1294,Sea Table,Juhu,Western Suburbs,Japanese & Asian,Quick Bites,700,3.8,83,Yes,No,2015
+1295,Royal Junction,Kurla,Central Mumbai,Seafood,Bar & Lounge,1150,3.6,155,No,Yes,2005
+1296,Coastal Junction,Colaba,South Mumbai,Continental,Casual Dining,1500,4.1,127,Yes,No,2010
+1297,Bombay Cafe,Malad,Western Suburbs,Chinese,Bar & Lounge,1050,4.0,364,No,Yes,2010
+1298,Hungry House,Powai,Central Mumbai,Mughlai,Cafe,1200,3.9,461,Yes,Yes,2014
+1299,Moon House,Sion,Central Mumbai,North Indian,Quick Bites,200,3.5,540,Yes,No,2016
+1300,Hungry Bistro,Powai,Central Mumbai,Japanese & Asian,Quick Bites,650,3.6,31,Yes,Yes,2017
+1301,Hungry Table,Malad,Western Suburbs,Japanese & Asian,Quick Bites,550,3.7,217,Yes,No,2023
+1302,Coastal Hub,Powai,Central Mumbai,South Indian,Bar & Lounge,750,3.9,360,No,Yes,2015
+1303,Smoky Grill,Malad,Western Suburbs,Biryani,Quick Bites,200,4.2,54,Yes,No,2018
+1304,Sea Darbar,Vashi,Navi Mumbai,Bakery & Desserts,Casual Dining,500,3.4,20,No,No,2024
+1305,Desi Darbar,Vashi,Navi Mumbai,Street Food,Bar & Lounge,850,,87,No,Yes,2013
+1306,Maharaja Table,Fort,South Mumbai,South Indian,Quick Bites,250,4.1,282,Yes,No,2010
+1307,Golden Hub,Malad,Western Suburbs,Mughlai,Fine Dining,1600,4.0,204,No,Yes,2017
+1308,Spice Hub,POWAI ,Central Mumbai,Japanese & Asian,Cafe,1300,4.0,104,Yes,No,2013
+1309,Little Palace,Ghatkopar,Central Mumbai,North Indian,Bar & Lounge,1400,2.9,233,No,Yes,2009
+1310,Coastal Kitchen,Vashi,Navi Mumbai,Street Food,Quick Bites,100,3.1,90,Yes,No,2011
+1311,Little Bistro,Sion,Central Mumbai,Seafood,Casual Dining,600,3.3,125,No,No,2014
+1312,Bombay Cafe,FORT ,South Mumbai,Street Food,Cafe,400,3.7,105,No,No,2020
+1313,Sea Cafe,Kurla,Central Mumbai,Italian,Casual Dining,650,3.4,137,No,Yes,2025
+1314,Bombay Express,Powai,Central Mumbai,Bakery & Desserts,Quick Bites,200,3.9,120,Yes,No,2016
+1315,Little Grill,Kurla,Central Mumbai,North Indian,Fine Dining,2300,3.4,178,Yes,Yes,2025
+1316,Tandoor Kitchen,Powai,Central Mumbai,Chinese,Fine Dining,1850,3.8,111,No,Yes,2024
+1317,Hungry Junction,Powai,Central Mumbai,South Indian,Casual Dining,550,3.2,79,Yes,No,2007
+1318,Coastal Treat,Vashi,Navi Mumbai,North Indian,Quick Bites,300,4.0,145,Yes,No,2010
+1319,Coastal Tadka,Kurla,Central Mumbai,Chinese,Quick Bites,200,3.8,154,Yes,No,2012
+1320,Maharaja Grill,Ghatkopar,Central Mumbai,Italian,Casual Dining,900,4.0,39,Yes,No,2013
+1321,Grand Palace,Powai,Central Mumbai,Japanese & Asian,Cafe,1350,3.8,268,Yes,No,2024
+1322,Grand Hub,Colaba,South Mumbai,North Indian,Bar & Lounge,2300,,293,Yes,No,2009
+1323,Royal Bistro,Chembur,Harbour,Chinese,Cafe,400,3.5,157,Yes,Yes,2010
+1324,Golden Corner,Powai,Central Mumbai,Chinese,Casual Dining,1300,3.1,126,Yes,No,2014
+1325,Grand Bistro,Andheri,Western Suburbs,Seafood,Quick Bites,300,3.1,510,Yes,No,2017
+1326,Little Table,Borivali,Western Suburbs,Biryani,Cafe,700,4.0,102,Yes,No,2018
+1327,Fresh House,Juhu,Western Suburbs,Seafood,Quick Bites,450,3.5,291,Yes,No,2005
+1328,Bombay Corner,Borivali,Western Suburbs,South Indian,Casual Dining,300,3.7,234,Yes,No,2025
+1329,Fresh Bistro,Thane,Thane,Fast Food,Casual Dining,300,3.2,22,Yes,No,2009
+1330,Maharaja House,Lower Parel,South Mumbai,Bakery & Desserts,Cafe,500,3.6,109,Yes,No,2012
+1331,Little Table,Goregaon,Western Suburbs,Seafood,Quick Bites,300,3.7,454,Yes,No,2006
+1332,Sea Hub,Sion,Central Mumbai,Street Food,Casual Dining,250,4.0,200,Yes,No,2009
+1333,Little House,Ghatkopar,Central Mumbai,North Indian,Casual Dining,700,3.7,97,Yes,No,2013
+1334,Royal Kitchen,Sion,Central Mumbai,Seafood,Bar & Lounge,1700,4.3,50,No,Yes,2023
+1335,Sea Darbar,Lower Parel,South Mumbai,Chinese,Casual Dining,1000,3.7,107,Yes,Yes,2006
+1336,Fresh Bistro,Malad,Western Suburbs,Seafood,Quick Bites,350,3.7,68,Yes,No,2016
+1337,Coastal Tadka,Sion,Central Mumbai,Mughlai,Bar & Lounge,1100,4.0,530,No,Yes,2018
+1338,Sea Hub,Goregaon,Western Suburbs,Fast Food,Quick Bites,200,3.5,127,Yes,No,2013
+1339,Fresh Junction,Dadar,Central Mumbai,Mughlai,Quick Bites,250,3.9,491,Yes,No,2008
+1340,Spice Corner,Chembur,Harbour,North Indian,Cafe,850,3.6,180,Yes,No,2010
+1341,Coastal Tadka,Kurla,Central Mumbai,Street Food,Casual Dining,200,,145,No,No,2016
+1342,Urban Hub,Powai,Central Mumbai,Continental,Casual Dining,1000,3.1,119,Yes,No,2025
+1343,Sea Corner,Lower Parel,South Mumbai,Mughlai,Casual Dining,1750,4.1,669,Yes,No,2023
+1344,Maharaja Kitchen,Lower Parel,South Mumbai,Chinese,Bar & Lounge,1850,3.5,216,No,No,2008
+1345,Moon Junction,Powai,Central Mumbai,Mughlai,Quick Bites,500,3.7,80,Yes,No,2011
+1346,Desi Express,Thane,Thane,Italian,Casual Dining,850,3.6,449,No,No,2019
+1347,Fresh Palace,Kurla,Central Mumbai,Italian,Fine Dining,1150,3.6,925,Yes,Yes,2017
+1348,Desi Grill,Malad,Western Suburbs,North Indian,Casual Dining,800,3.1,60,Yes,No,2023
+1349,Little Table,Dadar,Central Mumbai,North Indian,Cafe,500,3.9,590,Yes,No,2022
+1350,Hungry Bistro,Juhu,Western Suburbs,Biryani,Quick Bites,300,3.3,554,Yes,No,2011
+1351,Smoky Cafe,Vashi,Navi Mumbai,Continental,Cafe,750,3.8,540,Yes,No,2006
+1352,Tandoor Bistro,Goregaon,Western Suburbs,Street Food,Cafe,150,3.1,173,Yes,No,2005
+1353,Tandoor Darbar,Dadar,Central Mumbai,Mughlai,Cafe,550,3.6,38,No,No,2025
+1354,Bombay Palace,Vashi,Navi Mumbai,North Indian,Quick Bites,250,3.5,87,Yes,No,2009
+1355,Little Treat,Thane,Thane,Italian,Cafe,600,4.3,259,No,No,2007
+1356,Maharaja Cafe,Dadar,Central Mumbai,Mughlai,Casual Dining,1250,3.8,786,Yes,No,2007
+1357,Desi Darbar,Bandra,Western Suburbs,Chinese,Casual Dining,1050,3.5,49,Yes,Yes,2020
+1358,Bombay Junction,Borivali,Western Suburbs,Fast Food,Cafe,400,2.9,72,No,No,2021
+1359,Golden Express,Bandra,Western Suburbs,Italian,Quick Bites,500,,178,Yes,No,2011
+1360,Desi Kitchen,Ghatkopar,Central Mumbai,Seafood,Bar & Lounge,1000,,416,Yes,Yes,2017
+1361,Urban Junction,BANDRA ,Western Suburbs,Chinese,Bar & Lounge,1500,3.5,189,No,Yes,2018
+1362,Tandoor Corner,Kurla,Central Mumbai,Mughlai,Quick Bites,250,3.4,125,Yes,No,2014
+1363,Urban Tadka,Sion,Central Mumbai,Chinese,Cafe,500,,212,Yes,No,2011
+1364,Fresh Hub,Fort,South Mumbai,Italian,Quick Bites,350,3.6,107,Yes,No,2016
+1365,Royal Kitchen,Fort,South Mumbai,Biryani,Cafe,600,4.5,385,Yes,No,2021
+1366,Royal Palace,Dadar,Central Mumbai,Italian,Bar & Lounge,1500,4.0,266,No,No,2011
+1367,Royal Treat,Lower Parel,South Mumbai,Street Food,Casual Dining,350,4.0,145,Yes,Yes,2011
+1368,Royal Palace,Powai,Central Mumbai,Japanese & Asian,Casual Dining,1250,3.4,157,Yes,No,2009
+1369,Golden Darbar,Fort,South Mumbai,North Indian,Quick Bites,250,4.0,122,No,No,2019
+1370,Coastal Hub,Andheri,Western Suburbs,North Indian,Fine Dining,2850,3.8,196,No,Yes,2022
+1371,Royal Table,Lower Parel,South Mumbai,North Indian,Quick Bites,650,4.0,286,Yes,No,2011
+1372,Coastal Bistro,Bandra,Western Suburbs,Seafood,Cafe,1350,3.9,379,Yes,No,2016
+1373,Desi Bistro,Ghatkopar,Central Mumbai,South Indian,Bar & Lounge,850,3.8,103,Yes,Yes,2005
+1374,Bombay Darbar,Thane,Thane,Chinese,Casual Dining,850,3.7,1027,No,No,2017
+1375,Sea Junction,Colaba,South Mumbai,Bakery & Desserts,Casual Dining,800,4.0,199,Yes,No,2019
+1376,Golden Bistro,Thane,Thane,Biryani,Quick Bites,200,3.3,62,Yes,No,2015
+1377,Urban Corner,Churchgate,South Mumbai,North Indian,Bar & Lounge,2000,4.0,123,No,No,2023
+1378,Coastal Tadka,Powai,Central Mumbai,South Indian,Quick Bites,250,3.9,492,Yes,No,2015
+1379,Sea Grill,Borivali,Western Suburbs,Street Food,Casual Dining,300,3.1,27,Yes,Yes,2011
+1380,Spice Cafe,Colaba,South Mumbai,North Indian,Cafe,750,3.6,47,Yes,No,2012
+1381,Urban Express,Thane,Thane,South Indian,Bar & Lounge,550,3.4,344,No,Yes,2019
+1382,Royal Cafe,Goregaon,Western Suburbs,Seafood,Casual Dining,1150,3.5,228,Yes,Yes,2022
+1383,Bombay Table,Sion,Central Mumbai,North Indian,Casual Dining,550,3.9,310,Yes,No,2020
+1384,Urban Kitchen,Bandra,Western Suburbs,Continental,Bar & Lounge,2950,3.4,26,No,Yes,2014
+1385,Moon Treat,Bandra,Western Suburbs,Japanese & Asian,Cafe,1750,3.4,91,Yes,No,2017
+1386,Golden Palace,Powai,Central Mumbai,Fast Food,Casual Dining,700,3.9,463,Yes,Yes,2021
+1387,Royal Darbar,Juhu,Western Suburbs,South Indian,Casual Dining,750,3.3,37,Yes,No,2022
+1388,Spice Cafe,Chembur,Harbour,Seafood,Quick Bites,450,3.4,186,Yes,No,2012
+1389,Desi House,Borivali,Western Suburbs,Seafood,Quick Bites,300,4.0,142,Yes,No,2008
+1390,Desi Kitchen,Malad,Western Suburbs,Biryani,Cafe,600,3.4,116,Yes,Yes,2005
+1391,Little Darbar,Juhu,Western Suburbs,Italian,Casual Dining,1400,,562,Yes,Yes,2019
+1392,Hungry Corner,Bandra,Western Suburbs,Mughlai,Casual Dining,1900,3.7,69,Yes,No,2005
+1393,Royal Table,Vashi,Navi Mumbai,Seafood,Fine Dining,2700,3.8,126,No,Yes,2005
+1394,Maharaja Darbar,Juhu,Western Suburbs,Fast Food,Quick Bites,400,3.8,291,Yes,No,2024
+1395,Little Corner,Thane,Thane,Seafood,Quick Bites,300,3.9,444,Yes,No,2005
+1396,Maharaja Grill,Chembur,Harbour,North Indian,Quick Bites,250,3.6,324,Yes,No,2006
+1397,Grand Grill,Chembur,Harbour,Bakery & Desserts,Casual Dining,500,3.5,27,Yes,No,2018
+1398,Fresh Kitchen,Borivali,Western Suburbs,North Indian,Quick Bites,150,2.8,61,No,No,2015
+1399,Bombay Tadka,Andheri,Western Suburbs,South Indian,Casual Dining,550,3.8,82,No,No,2023
+1400,Moon Junction,GHATKOPAR ,Central Mumbai,Seafood,Casual Dining,500,3.3,78,Yes,Yes,2017
+1401,Sea Darbar,DADAR ,Central Mumbai,South Indian,Quick Bites,200,3.1,110,Yes,No,2012
+1402,Royal Kitchen,Bandra,Western Suburbs,South Indian,Fine Dining,1300,3.6,159,No,Yes,2011
+1403,Desi Junction,VASHI ,Navi Mumbai,Italian,Quick Bites,350,4.1,131,Yes,No,2005
+1404,Grand Treat,Fort,South Mumbai,Bakery & Desserts,Casual Dining,500,3.2,24,Yes,No,2014
+1405,Maharaja Junction,Goregaon,Western Suburbs,Street Food,Casual Dining,200,3.3,181,Yes,No,2016
+1406,Coastal Treat,Fort,South Mumbai,Japanese & Asian,Casual Dining,1900,4.4,475,Yes,Yes,2025
+1407,Coastal Junction,Chembur,Harbour,Seafood,Quick Bites,300,3.1,114,No,No,2013
+1408,Fresh Treat,Thane,Thane,Seafood,Quick Bites,300,3.9,84,Yes,No,2014
+1409,Moon Tadka,JUHU ,Western Suburbs,Seafood,Cafe,750,4.1,176,No,No,2020
+1410,Coastal House,Fort,South Mumbai,Seafood,Cafe,850,4.3,1675,Yes,No,2019
+1411,Urban Kitchen,Fort,South Mumbai,Fast Food,Fine Dining,1550,3.5,143,Yes,Yes,2014
+1412,Hungry Tadka,Juhu,Western Suburbs,Bakery & Desserts,Quick Bites,200,3.7,74,Yes,No,2014
+1413,Hungry Cafe,Bandra,Western Suburbs,Chinese,Casual Dining,1350,4.5,1125,No,No,2022
+1414,Maharaja Tadka,Juhu,Western Suburbs,Street Food,Casual Dining,600,3.8,58,Yes,No,2015
+1415,Maharaja Grill,Kurla,Central Mumbai,Mughlai,Fine Dining,2100,3.9,664,No,Yes,2023
+1416,Sea Junction,Bandra,Western Suburbs,South Indian,Cafe,550,3.3,53,Yes,No,2013
+1417,Fresh Table,Bandra,Western Suburbs,Biryani,Quick Bites,350,3.9,164,No,No,2020
+1418,Royal Junction,Thane,Thane,Street Food,Casual Dining,300,3.6,262,No,Yes,2010
+1419,Moon Corner,Colaba,South Mumbai,Continental,Fine Dining,3600,4.1,182,Yes,Yes,2011
+1420,Coastal Darbar,Thane,Thane,Italian,Bar & Lounge,1700,3.5,35,No,Yes,2013
+1421,Coastal Junction,Juhu,Western Suburbs,Seafood,Fine Dining,5000,3.8,611,No,No,2008
+1422,Hungry Express,Borivali,Western Suburbs,Mughlai,Quick Bites,300,3.2,136,No,No,2024
+1423,Golden Treat,Sion,Central Mumbai,Chinese,Quick Bites,300,3.3,210,Yes,No,2017
+1424,Spice Grill,Fort,South Mumbai,Italian,Cafe,850,3.6,232,Yes,Yes,2019
+1425,Hungry Hub,Ghatkopar,Central Mumbai,South Indian,Casual Dining,600,4.1,457,Yes,Yes,2009
+1426,Golden Darbar,Ghatkopar,Central Mumbai,South Indian,Quick Bites,150,3.4,79,No,No,2010
+1427,Golden Bistro,Kurla,Central Mumbai,Street Food,Casual Dining,400,3.4,129,Yes,No,2017
+1428,Desi Table,Ghatkopar,Central Mumbai,South Indian,Casual Dining,400,3.5,498,Yes,Yes,2006
+1429,Urban Table,Ghatkopar,Central Mumbai,North Indian,Casual Dining,450,4.0,529,No,No,2012
+1430,Golden Palace,Andheri,Western Suburbs,Street Food,Quick Bites,100,4.0,449,Yes,No,2017
+1431,Royal Hub,Colaba,South Mumbai,Continental,Casual Dining,1550,3.2,253,Yes,Yes,2019
+1432,Urban Palace,SION ,Central Mumbai,South Indian,Cafe,250,3.2,300,No,No,2023
+1433,Grand Darbar,Chembur,Harbour,Japanese & Asian,Cafe,1100,4.0,123,Yes,No,2018
+1434,Coastal Corner,Churchgate,South Mumbai,Continental,Cafe,950,3.2,28,No,No,2009
+1435,Coastal Treat,Vashi,Navi Mumbai,Continental,Casual Dining,850,4.0,231,No,No,2020
+1436,Spice Palace,Sion,Central Mumbai,Italian,Quick Bites,350,3.5,832,Yes,No,2021
+1437,Golden Table,Juhu,Western Suburbs,Seafood,Quick Bites,500,3.1,108,Yes,No,2014
+1438,Tandoor Bistro,JUHU ,Western Suburbs,South Indian,Bar & Lounge,1450,3.0,29,No,Yes,2013
+1439,Maharaja House,Powai,Central Mumbai,Japanese & Asian,Casual Dining,1900,3.9,136,Yes,No,2025
+1440,Spice Hub,Malad,Western Suburbs,Bakery & Desserts,Casual Dining,650,3.8,174,Yes,No,2010
+1441,Golden Tadka,Vashi,Navi Mumbai,Continental,Casual Dining,750,3.1,102,Yes,Yes,2012
+1442,Maharaja Corner,Kurla,Central Mumbai,South Indian,Quick Bites,100,3.6,141,Yes,No,2005
+1443,Royal Kitchen,Bandra,Western Suburbs,Chinese,Quick Bites,300,4.0,330,Yes,No,2008
+1444,Golden Kitchen,Sion,Central Mumbai,Fast Food,Cafe,350,3.5,517,Yes,No,2025
+1445,Sea Bistro,Goregaon,Western Suburbs,North Indian,Cafe,1200,3.5,158,Yes,No,2016
+1446,Coastal Treat,Andheri,Western Suburbs,Seafood,Quick Bites,250,3.3,27,Yes,No,2016
+1447,Sea Treat,Malad,Western Suburbs,South Indian,Casual Dining,650,3.4,77,Yes,No,2010
+1448,Maharaja Cafe,Borivali,Western Suburbs,Mughlai,Casual Dining,700,3.0,142,Yes,No,2015
+1449,Hungry Darbar,Bandra,Western Suburbs,Fast Food,Casual Dining,850,4.1,358,No,Yes,2014
+1450,Maharaja Junction,Colaba,South Mumbai,Continental,Quick Bites,600,4.1,103,Yes,No,2008
+1451,Little Table,Sion,Central Mumbai,Biryani,Casual Dining,450,4.0,1144,Yes,Yes,2025
+1452,Little Corner,Churchgate,South Mumbai,Fast Food,Quick Bites,150,4.1,171,Yes,No,2009
+1453,Moon Grill,Colaba,South Mumbai,Seafood,Fine Dining,4750,4.0,166,No,Yes,2018
+1454,Maharaja Darbar,Chembur,Harbour,Fast Food,Casual Dining,350,3.6,147,Yes,No,2020
+1455,Maharaja Express,Kurla,Central Mumbai,Italian,Casual Dining,750,3.2,110,No,No,2016
+1456,Tandoor Express,Colaba,South Mumbai,Continental,Fine Dining,3650,3.9,151,No,Yes,2021
+1457,Golden Junction,Goregaon,Western Suburbs,Continental,Fine Dining,4250,3.7,86,No,Yes,2016
+1458,Fresh Kitchen,Fort,South Mumbai,Chinese,Fine Dining,2100,3.3,116,No,Yes,2014
+1459,Bombay Grill,Andheri,Western Suburbs,South Indian,Casual Dining,650,3.3,215,Yes,Yes,2009
+1460,Spice House,Lower Parel,South Mumbai,Japanese & Asian,Quick Bites,500,3.7,120,No,No,2020
+1461,Spice Kitchen,Kurla,Central Mumbai,Chinese,Casual Dining,450,3.6,718,Yes,Yes,2013
+1462,Golden Treat,Churchgate,South Mumbai,Biryani,Quick Bites,200,3.1,154,Yes,No,2017
+1463,Maharaja Corner,Churchgate,South Mumbai,Fast Food,Quick Bites,200,4.0,112,Yes,No,2007
+1464,Golden Bistro,Andheri,Western Suburbs,Chinese,Casual Dining,600,3.1,13,Yes,No,2006
+1465,Moon Kitchen,Thane,Thane,Continental,Bar & Lounge,1750,3.9,371,Yes,Yes,2009
+1466,Moon Grill,Chembur,Harbour,Continental,Casual Dining,800,3.2,30,Yes,No,2016
+1467,Little Hub,Lower Parel,South Mumbai,North Indian,Quick Bites,400,3.4,167,No,No,2008
+1468,Hungry Palace,Goregaon,Western Suburbs,Seafood,Casual Dining,1050,3.9,416,Yes,Yes,2013
+1469,Desi Table,Juhu,Western Suburbs,Continental,Cafe,1400,3.9,246,No,No,2015
+1470,Grand Grill,LOWER PAREL ,South Mumbai,Street Food,Cafe,350,3.3,238,Yes,No,2023
+1471,Smoky Corner,GOREGAON ,Western Suburbs,Seafood,Quick Bites,300,4.3,265,Yes,No,2010
+1472,Bombay Grill,Fort,South Mumbai,Biryani,Bar & Lounge,1800,3.5,70,No,Yes,2011
+1473,Tandoor Treat,Thane,Thane,Chinese,Cafe,350,3.1,61,Yes,No,2017
+1474,Tandoor Corner,Sion,Central Mumbai,South Indian,Cafe,250,3.6,213,Yes,No,2007
+1475,Tandoor Darbar,Colaba,South Mumbai,Bakery & Desserts,Cafe,350,3.4,78,Yes,No,2012
+1476,Urban Bistro,Fort,South Mumbai,South Indian,Casual Dining,450,3.5,79,Yes,Yes,2020
+1477,Grand Darbar,Ghatkopar,Central Mumbai,Seafood,Quick Bites,350,3.8,241,Yes,No,2018
+1478,Bombay Bistro,Goregaon,Western Suburbs,South Indian,Cafe,300,3.9,282,No,No,2017
+1479,Maharaja Junction,Vashi,Navi Mumbai,Continental,Casual Dining,1200,3.5,149,Yes,No,2021
+1480,Coastal Tadka,Andheri,Western Suburbs,Japanese & Asian,Casual Dining,1150,3.4,242,Yes,No,2017
+1481,Maharaja Palace,Churchgate,South Mumbai,North Indian,Casual Dining,850,3.7,1260,Yes,No,2018
+1482,Urban Grill,Churchgate,South Mumbai,Seafood,Quick Bites,450,3.1,45,Yes,No,2021
+1483,Tandoor Grill,Colaba,South Mumbai,North Indian,Casual Dining,1200,3.9,125,Yes,Yes,2014
+1484,Tandoor Tadka,Malad,Western Suburbs,Seafood,Casual Dining,1200,3.8,172,Yes,No,2009
+1485,Maharaja Kitchen,Lower Parel,South Mumbai,Mughlai,Quick Bites,400,3.6,147,Yes,No,2010
+1486,Sea Junction,Goregaon,Western Suburbs,Seafood,Casual Dining,800,3.3,12,No,No,2012
+1487,Moon Tadka,Sion,Central Mumbai,Seafood,Cafe,600,3.9,200,Yes,No,2019
+1488,Golden Bistro,Thane,Thane,Bakery & Desserts,Quick Bites,150,3.2,40,Yes,No,2017
+1489,Sea Tadka,Chembur,Harbour,Japanese & Asian,Casual Dining,1500,3.7,86,Yes,No,2007
+1490,Bombay Kitchen,Chembur,Harbour,Chinese,Casual Dining,1050,3.6,265,Yes,Yes,2021
+1491,Hungry Bistro,Kurla,Central Mumbai,Italian,Casual Dining,1050,3.2,60,Yes,No,2019
+1492,Grand Cafe,Bandra,Western Suburbs,Biryani,Quick Bites,350,4.0,168,No,No,2023
+1493,Maharaja House,Lower Parel,South Mumbai,Fast Food,Quick Bites,150,3.4,475,Yes,No,2021
+1494,Moon Grill,Malad,Western Suburbs,Street Food,Fine Dining,700,3.6,114,No,Yes,2016
+1495,Sea Cafe,Kurla,Central Mumbai,Continental,Fine Dining,1750,4.1,336,Yes,Yes,2012
+1496,Maharaja Hub,Malad,Western Suburbs,Seafood,Fine Dining,3150,4.0,66,No,No,2020
+1497,Sea Treat,Chembur,Harbour,Continental,Cafe,550,3.5,233,No,No,2022
+1498,Desi Kitchen,Borivali,Western Suburbs,Fast Food,Casual Dining,300,3.1,68,Yes,No,2023
+1499,Fresh Kitchen,Juhu,Western Suburbs,Mughlai,Quick Bites,300,4.4,297,Yes,No,2023
+1500,Golden Bistro,Thane,Thane,Italian,Bar & Lounge,2150,4.0,371,No,No,2013
+1501,Little Cafe,Goregaon,Western Suburbs,Italian,Casual Dining,1150,3.3,21,No,No,2019
+1502,Royal Table,Ghatkopar,Central Mumbai,North Indian,Quick Bites,300,3.9,150,Yes,No,2009
+1503,Grand Kitchen,Bandra,Western Suburbs,Bakery & Desserts,Quick Bites,350,4.1,368,Yes,No,2022
+1504,Hungry Kitchen,Vashi,Navi Mumbai,Seafood,Casual Dining,750,3.3,184,No,No,2009
+1505,Spice Corner,Vashi,Navi Mumbai,Fast Food,Bar & Lounge,550,4.0,669,Yes,Yes,2006
+1506,Hungry Hub,Powai,Central Mumbai,Seafood,Cafe,1000,3.4,53,No,No,2020
+1507,Grand Treat,Borivali,Western Suburbs,Continental,Quick Bites,400,3.4,92,Yes,No,2023
+1508,Desi Corner,Borivali,Western Suburbs,South Indian,Casual Dining,550,4.0,158,No,No,2017
+1509,Little Tadka,Churchgate,South Mumbai,Street Food,Casual Dining,350,3.3,172,Yes,Yes,2007
+1510,Golden Kitchen,Vashi,Navi Mumbai,Mughlai,Quick Bites,450,3.6,113,Yes,No,2011
+1511,Little Grill,Bandra,Western Suburbs,Italian,Fine Dining,5000,3.8,130,No,Yes,2020
+1512,Coastal Darbar,Churchgate,South Mumbai,Bakery & Desserts,Casual Dining,550,3.1,49,No,Yes,2022
+1513,Smoky Tadka,Powai,Central Mumbai,Biryani,Cafe,550,3.5,398,No,No,2017
+1514,Golden Darbar,Andheri,Western Suburbs,Japanese & Asian,Quick Bites,800,3.7,20,Yes,No,2025
+1515,Royal Express,Borivali,Western Suburbs,Fast Food,Quick Bites,100,3.6,98,Yes,No,2017
+1516,Moon Junction,Bandra,Western Suburbs,Street Food,Quick Bites,200,3.3,84,No,No,2007
+1517,Coastal Junction,Andheri,Western Suburbs,Biryani,Casual Dining,1050,4.0,372,Yes,Yes,2011
+1518,Little Treat,Churchgate,South Mumbai,Japanese & Asian,Bar & Lounge,1700,4.1,222,No,Yes,2007
+1519,Moon Corner,Chembur,Harbour,Seafood,Cafe,850,3.5,52,Yes,Yes,2008
+1520,Bombay Darbar,KURLA ,Central Mumbai,Bakery & Desserts,Casual Dining,350,3.2,678,Yes,Yes,2012
+1521,Moon Bistro,Sion,Central Mumbai,Fast Food,Quick Bites,150,3.5,131,Yes,No,2005
+1522,Desi Table,Andheri,Western Suburbs,Seafood,Quick Bites,500,2.8,21,Yes,No,2013
+1523,Sea Hub,Chembur,Harbour,Mughlai,Cafe,550,3.8,133,No,No,2016
+1524,Golden Grill,Ghatkopar,Central Mumbai,Chinese,Quick Bites,300,3.1,46,Yes,Yes,2019
+1525,Coastal Tadka,Malad,Western Suburbs,Bakery & Desserts,Casual Dining,450,3.3,68,No,Yes,2008
+1526,Golden Junction,Ghatkopar,Central Mumbai,Mughlai,Casual Dining,800,3.0,359,Yes,Yes,2017
+1527,Golden House,Ghatkopar,Central Mumbai,Fast Food,Quick Bites,150,3.6,545,Yes,No,2020
+1528,Coastal Corner,Thane,Thane,Biryani,Quick Bites,250,3.5,42,Yes,No,2007
+1529,Bombay Darbar,Fort,South Mumbai,North Indian,Fine Dining,2550,4.5,708,No,Yes,2005
+1530,Little Cafe,Churchgate,South Mumbai,Street Food,Quick Bites,100,3.5,59,Yes,No,2009
+1531,Bombay House,Colaba,South Mumbai,Continental,Quick Bites,400,3.6,47,Yes,No,2005
+1532,Moon Palace,Thane,Thane,Italian,Quick Bites,250,3.6,226,Yes,No,2024
+1533,Sea Grill,Dadar,Central Mumbai,Seafood,Fine Dining,2400,4.7,185,No,Yes,2009
+1534,Fresh Hub,Chembur,Harbour,Continental,Quick Bites,400,3.6,100,Yes,No,2006
+1535,Desi Hub,Borivali,Western Suburbs,Continental,Cafe,600,3.2,536,Yes,No,2020
+1536,Little Table,Churchgate,South Mumbai,Fast Food,Casual Dining,400,3.3,169,No,No,2012
+1537,Fresh Bistro,Sion,Central Mumbai,Street Food,Casual Dining,400,3.1,220,No,Yes,2025
+1538,Little Express,Fort,South Mumbai,Biryani,Casual Dining,900,3.6,138,Yes,No,2010
+1539,Moon Treat,Lower Parel,South Mumbai,Mughlai,Casual Dining,1300,3.1,41,Yes,Yes,2009
+1540,Grand Junction,Churchgate,South Mumbai,Continental,Casual Dining,1150,3.8,100,Yes,Yes,2025
+1541,Golden Express,Lower Parel,South Mumbai,Seafood,Quick Bites,600,3.4,179,No,No,2025
+1542,Bombay Bistro,Ghatkopar,Central Mumbai,South Indian,Casual Dining,350,3.7,177,Yes,No,2013
+1543,Spice House,Chembur,Harbour,Chinese,Casual Dining,600,3.3,174,Yes,No,2014
+1544,Moon Kitchen,Fort,South Mumbai,Street Food,Cafe,200,3.8,97,Yes,No,2019
+1545,Spice Junction,Churchgate,South Mumbai,North Indian,Quick Bites,400,3.8,172,No,No,2020
+1546,Fresh Cafe,Colaba,South Mumbai,South Indian,Casual Dining,950,3.9,91,No,No,2014
+1547,Bombay Treat,Goregaon,Western Suburbs,Street Food,Casual Dining,450,3.4,208,Yes,Yes,2025
+1548,Little Darbar,Chembur,Harbour,Street Food,Quick Bites,150,4.1,297,Yes,No,2014
+1549,Coastal House,Bandra,Western Suburbs,South Indian,Fine Dining,2100,4.3,1542,No,Yes,2017
+1550,Smoky Junction,Goregaon,Western Suburbs,Continental,Casual Dining,1050,3.2,375,No,Yes,2006
+1551,Tandoor Tadka,Dadar,Central Mumbai,Bakery & Desserts,Casual Dining,400,4.2,20,No,No,2024
+1552,Little Palace,Lower Parel,South Mumbai,North Indian,Quick Bites,450,4.0,1159,Yes,No,2009
+1553,Little Cafe,Colaba,South Mumbai,Seafood,Casual Dining,1050,3.5,51,Yes,No,2016
+1554,Desi Hub,Powai,Central Mumbai,Fast Food,Casual Dining,450,4.2,149,Yes,No,2015
+1555,Maharaja Palace,Vashi,Navi Mumbai,Bakery & Desserts,Casual Dining,500,3.4,58,No,No,2009
+1556,Little Treat,Bandra,Western Suburbs,Street Food,Quick Bites,150,3.7,99,Yes,No,2021
+1557,Sea Hub,Sion,Central Mumbai,Seafood,Bar & Lounge,2100,4.2,531,No,No,2023
+1558,Desi Hub,Andheri,Western Suburbs,Chinese,Cafe,650,3.6,206,Yes,No,2025
+1559,Little Treat,Lower Parel,South Mumbai,Continental,Fine Dining,3950,3.7,99,No,Yes,2005
+1560,Urban Express,Thane,Thane,Biryani,Casual Dining,500,3.9,266,Yes,No,2013
+1561,Tandoor Tadka,Vashi,Navi Mumbai,Mughlai,Quick Bites,350,3.5,302,Yes,No,2016
+1562,Moon House,Malad,Western Suburbs,Mughlai,Cafe,700,3.4,66,No,No,2008
+1563,Sea Tadka,Dadar,Central Mumbai,Chinese,Cafe,800,4.0,160,Yes,Yes,2006
+1564,Sea House,Powai,Central Mumbai,Chinese,Fine Dining,2100,3.9,564,No,Yes,2007
+1565,Urban Junction,Sion,Central Mumbai,Continental,Cafe,1150,2.9,64,Yes,No,2007
+1566,Spice Tadka,Borivali,Western Suburbs,Continental,Casual Dining,800,3.5,135,Yes,No,2023
+1567,Spice Junction,Sion,Central Mumbai,Japanese & Asian,Quick Bites,250,3.8,236,Yes,No,2014
+1568,Hungry House,Bandra,Western Suburbs,Mughlai,Casual Dining,1800,3.5,90,Yes,Yes,2024
+1569,Coastal Bistro,Dadar,Central Mumbai,Bakery & Desserts,Casual Dining,400,4.0,57,Yes,No,2019
+1570,Golden Treat,Juhu,Western Suburbs,Italian,Quick Bites,600,3.5,282,Yes,No,2018
+1571,Smoky Bistro,Chembur,Harbour,Biryani,Casual Dining,500,3.7,185,Yes,No,2019
+1572,Royal House,Borivali,Western Suburbs,Chinese,Cafe,300,2.3,109,No,No,2006
+1573,Fresh Palace,Powai,Central Mumbai,Street Food,Cafe,250,3.5,151,No,No,2010
+1574,Maharaja Palace,Lower Parel,South Mumbai,Street Food,Quick Bites,300,3.4,82,Yes,No,2010
+1575,Bombay Express,Bandra,Western Suburbs,Continental,Quick Bites,300,4.3,246,No,No,2008
+1576,Little Palace,Bandra,Western Suburbs,Mughlai,Bar & Lounge,2200,4.2,144,No,Yes,2017
+1577,Fresh Treat,Bandra,Western Suburbs,South Indian,Quick Bites,200,3.4,32,Yes,No,2023
+1578,Golden Cafe,Kurla,Central Mumbai,Biryani,Quick Bites,200,3.0,24,Yes,No,2005
+1579,Royal Corner,Juhu,Western Suburbs,Seafood,Casual Dining,1550,3.6,134,Yes,No,2023
+1580,Smoky Cafe,Fort,South Mumbai,Continental,Quick Bites,350,3.4,112,Yes,No,2010
+1581,Hungry Treat,Juhu,Western Suburbs,Italian,Casual Dining,1200,3.6,1116,No,No,2005
+1582,Moon Junction,Malad,Western Suburbs,Street Food,Casual Dining,250,3.3,293,Yes,Yes,2015
+1583,Smoky Corner,Sion,Central Mumbai,South Indian,Quick Bites,150,3.7,127,Yes,No,2018
+1584,Spice Junction,Lower Parel,South Mumbai,Italian,Casual Dining,1150,3.4,64,Yes,No,2015
+1585,Tandoor Junction,Dadar,Central Mumbai,Fast Food,Bar & Lounge,450,3.6,164,No,Yes,2018
+1586,Spice Kitchen,Goregaon,Western Suburbs,South Indian,Casual Dining,450,3.5,73,Yes,No,2009
+1587,Desi Cafe,Lower Parel,South Mumbai,Street Food,Quick Bites,150,3.7,418,Yes,No,2008
+1588,Bombay Hub,Goregaon,Western Suburbs,Italian,Bar & Lounge,2500,4.2,347,No,Yes,2015
+1589,Spice Hub,Dadar,Central Mumbai,Bakery & Desserts,Cafe,300,3.4,172,Yes,No,2017
+1590,Moon Table,Ghatkopar,Central Mumbai,Chinese,Casual Dining,600,3.3,109,Yes,Yes,2010
+1591,Sea Table,Borivali,Western Suburbs,Street Food,Casual Dining,200,3.4,26,Yes,Yes,2009
+1592,Hungry Kitchen,Fort,South Mumbai,Street Food,Cafe,250,3.3,222,No,No,2015
+1593,Tandoor Grill,Powai,Central Mumbai,Fast Food,Bar & Lounge,850,3.8,160,No,No,2012
+1594,Golden Express,Colaba,South Mumbai,Seafood,Cafe,1200,4.0,610,Yes,Yes,2023
+1595,Grand Corner,Sion,Central Mumbai,Biryani,Casual Dining,650,3.7,223,Yes,No,2022
+1596,Grand Palace,Ghatkopar,Central Mumbai,Bakery & Desserts,Bar & Lounge,650,3.7,459,Yes,Yes,2019
+1597,Sea Corner,Sion,Central Mumbai,Seafood,Casual Dining,800,3.7,215,Yes,No,2014
+1598,Hungry Tadka,Borivali,Western Suburbs,Fast Food,Quick Bites,150,3.0,27,Yes,No,2009
+1599,Golden Palace,Colaba,South Mumbai,Japanese & Asian,Fine Dining,3550,4.3,139,No,Yes,2024
+1600,Urban Bistro,Fort,South Mumbai,Japanese & Asian,Casual Dining,1550,3.7,365,Yes,Yes,2007
+1601,Royal Hub,Fort,South Mumbai,Street Food,Casual Dining,250,3.8,94,No,Yes,2025
+1602,Golden Bistro,Chembur,Harbour,Street Food,Cafe,150,2.8,291,Yes,No,2022
+1603,Grand Table,Sion,Central Mumbai,Biryani,Quick Bites,200,3.9,105,Yes,No,2005
+1604,Spice Tadka,Malad,Western Suburbs,Mughlai,Casual Dining,850,3.2,240,Yes,No,2014
+1605,Coastal Bistro,Vashi,Navi Mumbai,South Indian,Casual Dining,400,3.9,132,No,No,2023
+1606,Grand Darbar,Bandra,Western Suburbs,Street Food,Cafe,400,3.7,373,Yes,No,2018
+1607,Royal Tadka,COLABA ,South Mumbai,Fast Food,Bar & Lounge,1500,3.5,76,No,No,2010
+1608,Spice Bistro,Juhu,Western Suburbs,Street Food,Casual Dining,450,3.8,150,Yes,No,2023
+1609,Spice Junction,Fort,South Mumbai,Continental,Casual Dining,1600,3.7,179,Yes,No,2009
+1610,Fresh Darbar,Colaba,South Mumbai,Japanese & Asian,Casual Dining,1850,3.8,190,Yes,No,2018
+1611,Urban Tadka,Dadar,Central Mumbai,South Indian,Quick Bites,200,3.6,44,Yes,No,2018
+1612,Royal Grill,Borivali,Western Suburbs,Chinese,Fine Dining,2100,3.7,187,No,No,2025
+1613,Tandoor House,Dadar,Central Mumbai,Street Food,Casual Dining,350,3.8,111,No,No,2008
+1614,Little Hub,Bandra,Western Suburbs,North Indian,Casual Dining,850,3.8,785,No,No,2022
+1615,Tandoor Express,Chembur,Harbour,Street Food,Cafe,350,3.8,85,No,No,2020
+1616,Coastal Express,Thane,Thane,Fast Food,Casual Dining,250,4.0,259,Yes,No,2020
+1617,Little Cafe,Juhu,Western Suburbs,Mughlai,Fine Dining,3750,3.9,138,Yes,Yes,2025
+1618,Urban Kitchen,Chembur,Harbour,Chinese,Casual Dining,450,3.3,69,Yes,No,2017
+1619,Urban Corner,Juhu,Western Suburbs,Fast Food,Quick Bites,250,3.6,177,Yes,No,2012
+1620,Grand Tadka,Fort,South Mumbai,Fast Food,Casual Dining,700,4.0,236,Yes,Yes,2016
+1621,Coastal Cafe,Churchgate,South Mumbai,Fast Food,Bar & Lounge,650,3.1,87,No,Yes,2020
+1622,Golden Cafe,Goregaon,Western Suburbs,Street Food,Cafe,300,3.3,85,Yes,Yes,2017
+1623,Coastal Bistro,Chembur,Harbour,Biryani,Quick Bites,250,2.8,286,Yes,No,2018
+1624,Bombay Table,Goregaon,Western Suburbs,Bakery & Desserts,Cafe,400,,299,Yes,No,2011
+1625,Bombay House,Powai,Central Mumbai,Street Food,Quick Bites,150,3.4,115,Yes,No,2024
+1626,Spice Corner,Colaba,South Mumbai,Bakery & Desserts,Casual Dining,750,4.9,1175,Yes,Yes,2020
+1627,Golden Hub,Kurla,Central Mumbai,Chinese,Fine Dining,1700,3.1,167,Yes,Yes,2008
+1628,Little House,Sion,Central Mumbai,Chinese,Quick Bites,250,3.7,71,No,No,2007
+1629,Tandoor Express,Goregaon,Western Suburbs,Mughlai,Casual Dining,1200,3.4,233,Yes,No,2019
+1630,Smoky Cafe,Ghatkopar,Central Mumbai,Chinese,Casual Dining,1050,3.0,140,No,Yes,2007
+1631,Hungry Bistro,Ghatkopar,Central Mumbai,Biryani,Quick Bites,250,4.1,369,Yes,No,2025
+1632,Urban Corner,Thane,Thane,Street Food,Casual Dining,250,3.5,259,No,No,2018
+1633,Coastal House,Vashi,Navi Mumbai,Chinese,Casual Dining,1100,3.6,121,Yes,No,2020
+1634,Urban Grill,Malad,Western Suburbs,Italian,Bar & Lounge,1700,3.6,422,No,No,2014
+1635,Grand Kitchen,Bandra,Western Suburbs,Italian,Casual Dining,1450,3.5,151,No,Yes,2017
+1636,Urban Kitchen,Thane,Thane,Fast Food,Casual Dining,400,3.6,211,Yes,Yes,2005
+1637,Fresh Hub,Fort,South Mumbai,Bakery & Desserts,Quick Bites,250,3.6,192,Yes,No,2015
+1638,Desi Darbar,Sion,Central Mumbai,North Indian,Bar & Lounge,1850,3.9,198,No,Yes,2018
+1639,Royal Cafe,Thane,Thane,Bakery & Desserts,Quick Bites,200,,80,No,No,2024
+1640,Grand Junction,Sion,Central Mumbai,Street Food,Cafe,200,3.6,968,No,No,2024
+1641,Sea Table,Thane,Thane,South Indian,Quick Bites,150,3.2,124,Yes,No,2007
+1642,Little Bistro,Borivali,Western Suburbs,Street Food,Quick Bites,100,3.8,568,Yes,No,2020
+1643,Spice Table,Juhu,Western Suburbs,Street Food,Bar & Lounge,800,3.3,99,No,Yes,2016
+1644,Urban Darbar,Lower Parel,South Mumbai,Continental,Cafe,1200,4.0,328,No,No,2020
+1645,Grand Treat,Andheri,Western Suburbs,Continental,Casual Dining,1350,3.2,117,Yes,No,2011
+1646,Royal Express,Ghatkopar,Central Mumbai,North Indian,Bar & Lounge,1450,3.9,650,No,No,2019
+1647,Bombay Table,Sion,Central Mumbai,Bakery & Desserts,Casual Dining,400,3.1,251,Yes,No,2008
+1648,Sea House,Chembur,Harbour,South Indian,Casual Dining,400,3.6,397,Yes,Yes,2024
+1649,Golden Kitchen,Vashi,Navi Mumbai,Bakery & Desserts,Cafe,300,3.3,118,Yes,No,2008
+1650,Golden Grill,Andheri,Western Suburbs,Japanese & Asian,Casual Dining,1400,4.1,126,No,No,2016
+1651,Hungry Kitchen,Andheri,Western Suburbs,Mughlai,Cafe,1100,3.3,65,Yes,No,2011
+1652,Golden Table,Goregaon,Western Suburbs,Continental,Cafe,850,3.5,57,No,No,2008
+1653,Little Express,Dadar,Central Mumbai,Seafood,Casual Dining,1350,3.6,104,Yes,Yes,2016
+1654,Smoky Junction,Malad,Western Suburbs,Mughlai,Casual Dining,1000,3.9,84,Yes,No,2023
+1655,Little Cafe,Bandra,Western Suburbs,Chinese,Fine Dining,4650,3.8,77,No,Yes,2011
+1656,Bombay Junction,Vashi,Navi Mumbai,North Indian,Casual Dining,950,3.7,101,Yes,Yes,2025
+1657,Spice Treat,Goregaon,Western Suburbs,Chinese,Quick Bites,200,3.5,63,Yes,No,2006
+1658,Moon Treat,Churchgate,South Mumbai,Bakery & Desserts,Cafe,450,3.1,61,Yes,No,2007
+1659,Coastal Grill,MALAD ,Western Suburbs,Biryani,Casual Dining,750,3.8,91,Yes,No,2021
+1660,Moon Corner,Ghatkopar,Central Mumbai,Continental,Quick Bites,300,3.5,77,Yes,No,2012
+1661,Grand Cafe,Sion,Central Mumbai,Biryani,Casual Dining,350,3.7,58,No,Yes,2015
+1662,Grand Darbar,Thane,Thane,Seafood,Cafe,1050,4.2,631,Yes,No,2022
+1663,Spice Bistro,Colaba,South Mumbai,Bakery & Desserts,Quick Bites,250,3.7,217,Yes,No,2007
+1664,Coastal Kitchen,CHURCHGATE ,South Mumbai,Biryani,Quick Bites,500,3.8,57,Yes,No,2022
+1665,Smoky Palace,Fort,South Mumbai,Fast Food,Casual Dining,600,3.5,36,Yes,No,2006
+1666,Maharaja Grill,Vashi,Navi Mumbai,Seafood,Bar & Lounge,1450,4.0,313,No,Yes,2025
+1667,Smoky Palace,Fort,South Mumbai,Biryani,Quick Bites,300,3.5,60,Yes,No,2023
+1668,Smoky Tadka,Goregaon,Western Suburbs,Japanese & Asian,Quick Bites,450,3.4,71,Yes,No,2024
+1669,Bombay Tadka,Sion,Central Mumbai,Fast Food,Bar & Lounge,650,3.1,88,No,Yes,2021
+1670,Golden Kitchen,Borivali,Western Suburbs,North Indian,Quick Bites,200,3.9,409,Yes,No,2011
+1671,Spice Kitchen,Ghatkopar,Central Mumbai,Italian,Casual Dining,1000,3.8,41,Yes,No,2006
+1672,Grand Table,Andheri,Western Suburbs,Biryani,Bar & Lounge,800,3.8,1060,No,No,2022
+1673,Desi Corner,Powai,Central Mumbai,Chinese,Quick Bites,350,4.0,307,Yes,No,2019
+1674,Maharaja Cafe,Chembur,Harbour,Chinese,Bar & Lounge,1700,3.0,25,No,No,2025
+1675,Smoky Darbar,Powai,Central Mumbai,Bakery & Desserts,Casual Dining,700,3.5,127,No,No,2007
+1676,Smoky Table,Sion,Central Mumbai,Seafood,Fine Dining,2450,3.7,225,No,Yes,2017
+1677,Fresh Grill,Borivali,Western Suburbs,Street Food,Cafe,150,3.6,164,Yes,No,2015
+1678,Hungry Junction,Borivali,Western Suburbs,Biryani,Casual Dining,550,3.8,116,Yes,No,2011
+1679,Fresh Palace,Chembur,Harbour,Continental,Quick Bites,500,3.8,84,Yes,No,2010
+1680,Golden Bistro,Goregaon,Western Suburbs,Biryani,Quick Bites,350,3.6,112,No,No,2023
+1681,Golden Darbar,Malad,Western Suburbs,North Indian,Casual Dining,600,3.6,400,No,No,2014
+1682,Spice Kitchen,Chembur,Harbour,Italian,Quick Bites,400,4.4,78,Yes,No,2018
+1683,Coastal Express,Powai,Central Mumbai,Japanese & Asian,Casual Dining,2000,3.8,3300,Yes,No,2005
+1684,Golden Darbar,Thane,Thane,Biryani,Casual Dining,400,2.7,80,Yes,Yes,2017
+1685,Urban Kitchen,Churchgate,South Mumbai,Continental,Quick Bites,250,4.0,441,Yes,No,2019
+1686,Tandoor Cafe,Lower Parel,South Mumbai,Italian,Cafe,750,3.2,60,Yes,No,2025
+1687,Moon Corner,Fort,South Mumbai,Chinese,Casual Dining,950,3.4,115,Yes,No,2021
+1688,Smoky Grill,Malad,Western Suburbs,Seafood,Quick Bites,550,3.4,154,Yes,No,2016
+1689,Coastal Express,Sion,Central Mumbai,Chinese,Quick Bites,200,3.9,2007,Yes,No,2016
+1690,Maharaja Treat,Dadar,Central Mumbai,Mughlai,Cafe,600,,37,Yes,No,2022
+1691,Maharaja Cafe,Juhu,Western Suburbs,South Indian,Quick Bites,350,4.0,227,No,No,2005
+1692,Coastal House,Chembur,Harbour,South Indian,Quick Bites,150,3.6,79,Yes,No,2009
+1693,Coastal Darbar,Kurla,Central Mumbai,Mughlai,Quick Bites,200,3.0,86,Yes,No,2006
+1694,Maharaja Treat,Ghatkopar,Central Mumbai,Mughlai,Casual Dining,1000,3.8,130,Yes,No,2006
+1695,Bombay Darbar,Fort,South Mumbai,Continental,Casual Dining,1300,3.6,29,Yes,Yes,2011
+1696,Tandoor Kitchen,Fort,South Mumbai,Bakery & Desserts,Quick Bites,150,3.6,192,Yes,No,2008
+1697,Golden Tadka,Thane,Thane,Biryani,Cafe,300,3.3,98,Yes,No,2015
+1698,Maharaja Hub,Sion,Central Mumbai,Street Food,Cafe,300,3.7,168,Yes,Yes,2015
+1699,Moon Hub,Kurla,Central Mumbai,Biryani,Fine Dining,1500,3.5,412,No,Yes,2022
+1700,Urban Treat,Borivali,Western Suburbs,Continental,Quick Bites,250,3.6,93,Yes,No,2012
+1701,Grand Express,Powai,Central Mumbai,Chinese,Cafe,1250,3.8,192,Yes,No,2007
+1702,Fresh Bistro,Malad,Western Suburbs,Bakery & Desserts,Cafe,450,3.9,147,No,No,2007
+1703,Urban Kitchen,Chembur,Harbour,Bakery & Desserts,Quick Bites,200,3.4,288,Yes,No,2014
+1704,Grand House,Vashi,Navi Mumbai,Fast Food,Fine Dining,900,3.8,851,No,Yes,2020
+1705,Moon Junction,Powai,Central Mumbai,Bakery & Desserts,Casual Dining,600,3.7,817,Yes,No,2010
+1706,Desi Bistro,Churchgate,South Mumbai,Seafood,Fine Dining,4700,4.0,371,No,Yes,2007
+1707,Bombay Hub,CHEMBUR ,Harbour,Biryani,Casual Dining,600,3.5,689,Yes,Yes,2023
+1708,Royal Darbar,Colaba,South Mumbai,South Indian,Quick Bites,300,3.9,238,Yes,No,2019
+1709,Hungry Bistro,Sion,Central Mumbai,Mughlai,Quick Bites,200,3.8,235,Yes,No,2017
+1710,Bombay Kitchen,Kurla,Central Mumbai,Bakery & Desserts,Casual Dining,500,2.8,181,Yes,No,2007
+1711,Moon House,Dadar,Central Mumbai,Italian,Casual Dining,900,3.8,156,Yes,Yes,2007
+1712,Royal Bistro,Borivali,Western Suburbs,Japanese & Asian,Fine Dining,2400,3.2,490,No,Yes,2017
+1713,Tandoor Treat,Fort,South Mumbai,Seafood,Quick Bites,650,3.8,221,Yes,No,2013
+1714,Moon Kitchen,Malad,Western Suburbs,North Indian,Quick Bites,200,3.3,35,Yes,No,2025
+1715,Maharaja Junction,Colaba,South Mumbai,Fast Food,Quick Bites,250,3.6,104,Yes,No,2010
+1716,Smoky Darbar,Bandra,Western Suburbs,Fast Food,Quick Bites,200,3.3,33,Yes,No,2010
+1717,Bombay Palace,Sion,Central Mumbai,Biryani,Cafe,500,3.8,12,No,No,2021
+1718,Sea Kitchen,Vashi,Navi Mumbai,South Indian,Casual Dining,300,3.7,346,No,No,2005
+1719,Hungry Palace,Dadar,Central Mumbai,Fast Food,Casual Dining,400,3.6,34,Yes,No,2014
+1720,Golden Hub,Sion,Central Mumbai,Fast Food,Casual Dining,350,3.3,272,No,No,2025
+1721,Tandoor Corner,Andheri,Western Suburbs,Fast Food,Quick Bites,150,3.4,223,Yes,No,2009
+1722,Desi Darbar,Churchgate,South Mumbai,South Indian,Casual Dining,400,3.9,193,Yes,Yes,2007
+1723,Smoky House,Goregaon,Western Suburbs,Continental,Quick Bites,250,4.2,238,Yes,No,2015
+1724,Urban Grill,Juhu,Western Suburbs,Chinese,Cafe,700,4.0,138,Yes,No,2012
+1725,Coastal House,Andheri,Western Suburbs,Mughlai,Quick Bites,350,3.8,360,Yes,No,2009
+1726,Grand Treat,Vashi,Navi Mumbai,Italian,Casual Dining,1050,3.6,15,Yes,No,2014
+1727,Desi Bistro,Goregaon,Western Suburbs,Continental,Casual Dining,1100,3.2,44,Yes,No,2006
+1728,Urban Grill,Fort,South Mumbai,Japanese & Asian,Casual Dining,1650,3.3,93,Yes,Yes,2010
+1729,Moon Treat,Vashi,Navi Mumbai,Mughlai,Casual Dining,850,3.4,72,Yes,No,2014
+1730,Spice Tadka,Dadar,Central Mumbai,Fast Food,Cafe,550,4.1,125,Yes,Yes,2014
+1731,Little Darbar,KURLA ,Central Mumbai,Biryani,Fine Dining,900,3.1,69,No,Yes,2005
+1732,Bombay Corner,Sion,Central Mumbai,Mughlai,Quick Bites,250,3.0,201,Yes,No,2013
+1733,Sea Palace,Ghatkopar,Central Mumbai,Biryani,Casual Dining,700,3.0,192,No,Yes,2015
+1734,Bombay Bistro,Andheri,Western Suburbs,Japanese & Asian,Cafe,1600,3.8,1103,No,No,2024
+1735,Sea Grill,Sion,Central Mumbai,Bakery & Desserts,Bar & Lounge,1050,3.4,66,No,No,2006
+1736,Desi Darbar,Fort,South Mumbai,Street Food,Cafe,250,3.2,284,No,No,2006
+1737,Fresh Palace,Borivali,Western Suburbs,Street Food,Casual Dining,300,2.5,62,Yes,No,2023
+1738,Sea Express,Andheri,Western Suburbs,Italian,Fine Dining,4400,3.9,102,No,Yes,2023
+1739,Tandoor Hub,Andheri,Western Suburbs,South Indian,Casual Dining,500,3.9,55,No,No,2024
+1740,Coastal Tadka,Goregaon,Western Suburbs,South Indian,Casual Dining,600,,88,No,No,2021
+1741,Little Express,Bandra,Western Suburbs,Japanese & Asian,Casual Dining,1750,3.9,781,Yes,No,2012
+1742,Tandoor Express,Goregaon,Western Suburbs,Chinese,Fine Dining,2550,,373,No,No,2010
+1743,Moon Corner,Colaba,South Mumbai,South Indian,Cafe,550,4.0,170,Yes,No,2023
+1744,Golden Tadka,Borivali,Western Suburbs,Biryani,Fine Dining,1200,,318,No,Yes,2024
+1745,Golden House,Thane,Thane,Street Food,Quick Bites,100,3.8,172,Yes,No,2017
+1746,Spice Kitchen,Malad,Western Suburbs,Chinese,Casual Dining,550,3.3,351,Yes,Yes,2007
+1747,Moon House,Ghatkopar,Central Mumbai,Mughlai,Quick Bites,250,4.1,297,Yes,No,2020
+1748,Coastal Corner,Borivali,Western Suburbs,Seafood,Quick Bites,350,3.0,100,Yes,No,2019
+1749,Smoky Bistro,Kurla,Central Mumbai,Street Food,Quick Bites,100,3.0,146,Yes,No,2014
+1750,Spice Express,Dadar,Central Mumbai,Continental,Quick Bites,400,4.7,347,Yes,No,2010
+1751,Little Kitchen,Dadar,Central Mumbai,Biryani,Bar & Lounge,2200,4.0,78,No,Yes,2008
+1752,Little Cafe,Colaba,South Mumbai,Biryani,Cafe,550,3.5,565,No,No,2020
+1753,Fresh Junction,Malad,Western Suburbs,Chinese,Casual Dining,900,3.4,563,Yes,No,2020
+1754,Smoky House,Goregaon,Western Suburbs,Japanese & Asian,Quick Bites,300,4.2,53,Yes,No,2019
+1755,Spice House,Dadar,Central Mumbai,Seafood,Quick Bites,400,3.8,920,Yes,No,2012
+1756,Royal Corner,Thane,Thane,Japanese & Asian,Cafe,600,3.4,150,Yes,No,2012
+1757,Bombay Corner,Bandra,Western Suburbs,Mughlai,Fine Dining,3750,4.5,383,No,Yes,2014
+1758,Desi Palace,Bandra,Western Suburbs,Mughlai,Bar & Lounge,1800,4.3,289,Yes,No,2010
+1759,Coastal Darbar,Colaba,South Mumbai,Biryani,Casual Dining,1050,3.7,310,Yes,No,2020
+1760,Golden Treat,Sion,Central Mumbai,Biryani,Cafe,600,3.5,306,Yes,No,2007
+1761,Moon Junction,Andheri,Western Suburbs,Chinese,Casual Dining,750,3.6,100,No,No,2010
+1762,Royal Express,Ghatkopar,Central Mumbai,North Indian,Casual Dining,850,4.3,187,No,No,2008
+1763,Desi Kitchen,Bandra,Western Suburbs,Chinese,Casual Dining,1150,3.7,77,No,Yes,2016
+1764,Urban House,Juhu,Western Suburbs,Japanese & Asian,Quick Bites,450,3.4,200,No,No,2017
+1765,Golden Table,Chembur,Harbour,Mughlai,Casual Dining,1200,3.2,46,Yes,No,2014
+1766,Desi Corner,GHATKOPAR ,Central Mumbai,Seafood,Casual Dining,900,3.9,138,Yes,No,2009
+1767,Little Hub,Sion,Central Mumbai,Italian,Cafe,550,3.5,35,No,No,2017
+1768,Hungry Express,Andheri,Western Suburbs,Continental,Quick Bites,350,3.8,17,Yes,No,2013
+1769,Smoky House,Goregaon,Western Suburbs,South Indian,Bar & Lounge,550,4.0,174,No,Yes,2006
+1770,Coastal Tadka,Chembur,Harbour,Chinese,Quick Bites,250,3.8,504,Yes,No,2011
+1771,Fresh Palace,Colaba,South Mumbai,Continental,Quick Bites,500,4.3,1211,Yes,No,2007
+1772,Royal House,Vashi,Navi Mumbai,Italian,Quick Bites,300,3.6,157,Yes,No,2025
+1773,Coastal Table,Sion,Central Mumbai,Seafood,Quick Bites,400,3.5,293,Yes,No,2023
+1774,Bombay Kitchen,Malad,Western Suburbs,South Indian,Quick Bites,200,3.7,217,Yes,No,2020
+1775,Bombay Darbar,Andheri,Western Suburbs,Biryani,Quick Bites,200,3.4,112,Yes,No,2011
+1776,Smoky Hub,Sion,Central Mumbai,Biryani,Casual Dining,550,3.6,80,No,No,2013
+1777,Desi Grill,Juhu,Western Suburbs,Biryani,Quick Bites,200,3.6,351,Yes,No,2021
+1778,Bombay Corner,Chembur,Harbour,Japanese & Asian,Casual Dining,1550,3.7,418,Yes,No,2025
+1779,Royal Kitchen,Vashi,Navi Mumbai,Mughlai,Casual Dining,950,3.5,26,Yes,No,2022
+1780,Smoky Kitchen,Colaba,South Mumbai,Fast Food,Fine Dining,1950,4.1,629,No,Yes,2012
+1781,Sea Tadka,Malad,Western Suburbs,North Indian,Casual Dining,450,,104,Yes,No,2009
+1782,Coastal Table,Fort,South Mumbai,Chinese,Casual Dining,650,3.5,111,Yes,Yes,2017
+1783,Sea House,Chembur,Harbour,Japanese & Asian,Casual Dining,1300,4.2,20,Yes,No,2022
+1784,Royal House,Chembur,Harbour,Street Food,Casual Dining,250,3.6,282,Yes,Yes,2008
+1785,Coastal Treat,Ghatkopar,Central Mumbai,North Indian,Cafe,450,3.9,347,No,Yes,2007
+1786,Sea Kitchen,Vashi,Navi Mumbai,Mughlai,Cafe,850,4.1,85,Yes,Yes,2012
+1787,Coastal Treat,Fort,South Mumbai,Street Food,Casual Dining,250,3.4,158,No,No,2010
+1788,Desi Cafe,Malad,Western Suburbs,Continental,Quick Bites,250,3.5,209,Yes,No,2017
+1789,Bombay Treat,Vashi,Navi Mumbai,Fast Food,Casual Dining,350,3.1,336,Yes,Yes,2022
+1790,Grand House,Fort,South Mumbai,Seafood,Casual Dining,900,3.6,152,Yes,No,2015
+1791,Tandoor Bistro,Ghatkopar,Central Mumbai,South Indian,Casual Dining,650,3.7,187,Yes,No,2015
+1792,Urban Table,Kurla,Central Mumbai,Bakery & Desserts,Fine Dining,1300,3.6,85,No,Yes,2025
+1793,Maharaja Grill,Lower Parel,South Mumbai,Chinese,Quick Bites,350,3.5,44,No,No,2012
+1794,Bombay Junction,Ghatkopar,Central Mumbai,Seafood,Bar & Lounge,2000,3.9,164,No,Yes,2020
+1795,Golden House,Borivali,Western Suburbs,Street Food,Casual Dining,200,2.8,177,No,No,2018
+1796,Fresh Table,Malad,Western Suburbs,North Indian,Casual Dining,700,3.5,389,No,No,2017
+1797,Sea Cafe,Sion,Central Mumbai,Chinese,Bar & Lounge,1100,3.5,308,No,No,2018
+1798,Smoky Bistro,Ghatkopar,Central Mumbai,Biryani,Bar & Lounge,700,4.2,145,No,Yes,2017
+1799,Moon Junction,Lower Parel,South Mumbai,Street Food,Bar & Lounge,600,3.2,81,No,Yes,2007
+1800,Hungry Bistro,Lower Parel,South Mumbai,South Indian,Quick Bites,400,3.6,238,Yes,No,2011
+1801,Maharaja House,Andheri,Western Suburbs,South Indian,Quick Bites,150,3.9,100,Yes,No,2016
+1802,Moon Bistro,Churchgate,South Mumbai,Italian,Casual Dining,1150,3.6,330,Yes,No,2015
+1803,Smoky Grill,Goregaon,Western Suburbs,Chinese,Bar & Lounge,950,3.4,171,No,Yes,2017
+1804,Grand Tadka,Malad,Western Suburbs,South Indian,Quick Bites,100,3.6,19,Yes,No,2015
+1805,Hungry Corner,Thane,Thane,Street Food,Casual Dining,250,3.0,170,No,No,2022
+1806,Tandoor Palace,Powai,Central Mumbai,Fast Food,Casual Dining,350,4.2,128,No,No,2024
+1807,Bombay Table,Andheri,Western Suburbs,North Indian,Quick Bites,350,3.5,106,Yes,No,2013
+1808,Fresh Cafe,Bandra,Western Suburbs,Italian,Quick Bites,650,3.6,54,Yes,No,2010
+1809,Bombay Tadka,Kurla,Central Mumbai,Biryani,Cafe,350,3.2,629,No,No,2010
+1810,Desi Palace,Borivali,Western Suburbs,Seafood,Casual Dining,900,3.4,47,No,No,2025
+1811,Moon Cafe,Dadar,Central Mumbai,Biryani,Quick Bites,200,3.2,465,Yes,No,2011
+1812,Bombay Bistro,Bandra,Western Suburbs,Japanese & Asian,Casual Dining,1800,4.1,171,Yes,No,2022
+1813,Coastal Grill,Lower Parel,South Mumbai,Seafood,Casual Dining,1800,3.3,496,Yes,Yes,2024
+1814,Royal Hub,Kurla,Central Mumbai,Bakery & Desserts,Quick Bites,100,3.7,87,Yes,No,2025
+1815,Bombay Hub,Juhu,Western Suburbs,Fast Food,Casual Dining,600,3.6,98,Yes,No,2007
+1816,Desi Tadka,Bandra,Western Suburbs,Seafood,Cafe,2200,4.3,359,No,No,2006
+1817,Coastal Bistro,Vashi,Navi Mumbai,Seafood,Casual Dining,1050,3.9,73,Yes,No,2006
+1818,Grand Hub,Borivali,Western Suburbs,North Indian,Bar & Lounge,1150,4.2,127,No,Yes,2015
+1819,Maharaja Table,Colaba,South Mumbai,North Indian,Bar & Lounge,1000,4.2,786,No,Yes,2007
+1820,Sea Darbar,Fort,South Mumbai,South Indian,Casual Dining,550,3.6,64,Yes,Yes,2015
+1821,Spice Kitchen,Sion,Central Mumbai,Italian,Cafe,700,3.5,228,Yes,No,2009
+1822,Little Junction,Fort,South Mumbai,Fast Food,Bar & Lounge,850,4.1,200,No,Yes,2016
+1823,Tandoor Hub,Andheri,Western Suburbs,Fast Food,Quick Bites,150,2.9,74,Yes,No,2017
+1824,Desi Palace,Chembur,Harbour,North Indian,Quick Bites,200,3.5,363,No,No,2005
+1825,Bombay Grill,Kurla,Central Mumbai,Chinese,Quick Bites,200,3.0,39,No,No,2009
+1826,Moon Table,Juhu,Western Suburbs,Fast Food,Cafe,350,3.9,81,No,No,2009
+1827,Urban Treat,Bandra,Western Suburbs,Chinese,Casual Dining,2000,3.3,59,Yes,Yes,2021
+1828,Smoky Cafe,Sion,Central Mumbai,Continental,Casual Dining,650,3.5,380,Yes,Yes,2021
+1829,Royal Hub,Bandra,Western Suburbs,Street Food,Cafe,250,4.0,245,Yes,No,2025
+1830,Desi Cafe,Fort,South Mumbai,Seafood,Cafe,900,3.6,76,No,No,2018
+1831,Moon Grill,Colaba,South Mumbai,South Indian,Fine Dining,2150,4.4,607,No,Yes,2014
+1832,Little Corner,Thane,Thane,Continental,Cafe,650,3.4,239,Yes,No,2010
+1833,Urban Grill,Kurla,Central Mumbai,Bakery & Desserts,Casual Dining,550,3.5,544,No,Yes,2022
+1834,Royal Hub,Andheri,Western Suburbs,Bakery & Desserts,Cafe,300,3.4,502,Yes,No,2007
+1835,Grand Junction,Ghatkopar,Central Mumbai,Street Food,Bar & Lounge,450,3.3,42,No,No,2014
+1836,Little Kitchen,COLABA ,South Mumbai,Fast Food,Casual Dining,450,3.5,200,Yes,No,2008
+1837,Bombay Hub,Ghatkopar,Central Mumbai,Italian,Casual Dining,950,3.7,46,Yes,Yes,2024
+1838,Moon Cafe,CHEMBUR ,Harbour,Continental,Cafe,500,3.0,73,Yes,No,2016
+1839,Maharaja Junction,Sion,Central Mumbai,Street Food,Quick Bites,100,4.0,343,Yes,No,2025
+1840,Desi Table,Bandra,Western Suburbs,Biryani,Cafe,900,3.8,722,Yes,No,2005
+1841,Urban Hub,Colaba,South Mumbai,Japanese & Asian,Casual Dining,2000,,115,No,Yes,2017
+1842,Little Darbar,Vashi,Navi Mumbai,Biryani,Cafe,450,3.9,29,Yes,Yes,2015
+1843,Spice Hub,Sion,Central Mumbai,Biryani,Quick Bites,250,,849,Yes,No,2011
+1844,Grand Treat,Sion,Central Mumbai,Street Food,Casual Dining,250,4.1,245,No,No,2007
+1845,Fresh Kitchen,JUHU ,Western Suburbs,Continental,Fine Dining,4500,3.2,108,No,Yes,2009
+1846,Coastal Kitchen,Sion,Central Mumbai,Seafood,Casual Dining,1250,2.9,156,Yes,No,2023
+1847,Royal Palace,Kurla,Central Mumbai,Street Food,Fine Dining,750,3.7,160,Yes,Yes,2016
+1848,Hungry Kitchen,Juhu,Western Suburbs,Mughlai,Bar & Lounge,1500,4.0,135,No,No,2009
+1849,Tandoor Kitchen,Ghatkopar,Central Mumbai,North Indian,Cafe,700,3.1,179,Yes,Yes,2006
+1850,Grand Darbar,Churchgate,South Mumbai,Fast Food,Bar & Lounge,1000,3.9,84,No,Yes,2007
+1851,Urban Table,Powai,Central Mumbai,Bakery & Desserts,Cafe,350,3.5,41,No,No,2024
+1852,Royal Bistro,Ghatkopar,Central Mumbai,Mughlai,Fine Dining,2200,3.6,78,No,Yes,2008
+1853,Tandoor Table,Goregaon,Western Suburbs,Italian,Quick Bites,300,4.4,152,No,No,2008
+1854,Moon Hub,Colaba,South Mumbai,Continental,Casual Dining,1200,4.1,198,No,Yes,2008
+1855,Tandoor Treat,Thane,Thane,Street Food,Quick Bites,100,3.9,230,Yes,No,2012
+1856,Urban Express,Vashi,Navi Mumbai,Japanese & Asian,Cafe,650,3.5,181,Yes,No,2010
+1857,Hungry Junction,Colaba,South Mumbai,Street Food,Casual Dining,350,4.3,247,Yes,Yes,2007
+1858,Sea Bistro,Dadar,Central Mumbai,Fast Food,Casual Dining,450,3.6,280,Yes,No,2017
+1859,Smoky Hub,Malad,Western Suburbs,Biryani,Fine Dining,1750,3.4,259,No,No,2008
+1860,Sea Express,Vashi,Navi Mumbai,Fast Food,Quick Bites,100,3.2,361,Yes,No,2025
+1861,Tandoor Darbar,Thane,Thane,Continental,Casual Dining,1050,3.6,100,Yes,No,2006
+1862,Golden Kitchen,Goregaon,Western Suburbs,Seafood,Quick Bites,350,3.1,126,Yes,No,2023
+1863,Desi Darbar,Chembur,Harbour,Fast Food,Casual Dining,350,3.8,177,Yes,No,2011
+1864,Smoky Palace,Powai,Central Mumbai,North Indian,Bar & Lounge,2100,3.5,339,No,Yes,2008
+1865,Bombay Darbar,Dadar,Central Mumbai,Mughlai,Fine Dining,3300,3.9,1068,Yes,Yes,2007
+1866,Maharaja Darbar,Churchgate,South Mumbai,South Indian,Casual Dining,450,3.8,57,Yes,No,2024
+1867,Bombay Hub,POWAI ,Central Mumbai,Seafood,Cafe,950,3.7,132,Yes,No,2006
+1868,Fresh Kitchen,Goregaon,Western Suburbs,Japanese & Asian,Fine Dining,4250,4.2,177,No,Yes,2012
+1869,Little Bistro,Andheri,Western Suburbs,Mughlai,Casual Dining,1600,3.9,340,No,No,2017
+1870,Urban Table,Borivali,Western Suburbs,Biryani,Cafe,650,3.4,70,Yes,No,2017
+1871,Royal Junction,Thane,Thane,Street Food,Quick Bites,100,3.3,505,Yes,No,2008
+1872,Hungry House,Powai,Central Mumbai,Continental,Casual Dining,1450,3.5,189,No,No,2010
+1873,Maharaja Grill,VASHI ,Navi Mumbai,North Indian,Cafe,500,3.3,113,Yes,Yes,2005
+1874,Bombay Palace,Lower Parel,South Mumbai,Fast Food,Bar & Lounge,1150,3.5,115,No,Yes,2016
+1875,Royal Hub,Sion,Central Mumbai,Continental,Casual Dining,650,3.5,63,No,No,2016
+1876,Sea Kitchen,Kurla,Central Mumbai,Japanese & Asian,Casual Dining,1400,4.0,405,Yes,No,2021
+1877,Grand Express,Borivali,Western Suburbs,North Indian,Cafe,800,3.4,455,Yes,No,2012
+1878,Desi Darbar,Juhu,Western Suburbs,Italian,Quick Bites,600,3.6,168,Yes,No,2009
+1879,Royal Bistro,Goregaon,Western Suburbs,Biryani,Casual Dining,900,3.5,21,Yes,No,2007
+1880,Little Express,Sion,Central Mumbai,Street Food,Cafe,150,3.8,113,Yes,Yes,2019
+1881,Desi Tadka,Colaba,South Mumbai,South Indian,Cafe,600,4.2,465,Yes,No,2024
+1882,Royal Treat,Sion,Central Mumbai,Japanese & Asian,Fine Dining,2350,3.4,25,No,No,2024
+1883,Bombay Table,Colaba,South Mumbai,Mughlai,Fine Dining,4300,4.0,414,No,Yes,2006
+1884,Urban Cafe,Vashi,Navi Mumbai,Fast Food,Fine Dining,800,3.7,52,No,Yes,2023
+1885,Maharaja Junction,Powai,Central Mumbai,Street Food,Casual Dining,450,4.2,68,Yes,No,2014
+1886,Maharaja Corner,Vashi,Navi Mumbai,Bakery & Desserts,Cafe,150,3.6,333,Yes,No,2005
+1887,Moon Corner,Thane,Thane,Chinese,Casual Dining,550,3.4,43,Yes,Yes,2021
+1888,Sea House,Powai,Central Mumbai,Japanese & Asian,Cafe,850,3.9,151,No,No,2015
+1889,Fresh Corner,Kurla,Central Mumbai,Italian,Fine Dining,1550,2.8,223,No,Yes,2007
+1890,Coastal Corner,Lower Parel,South Mumbai,Fast Food,Fine Dining,1750,3.4,124,No,Yes,2012
+1891,Royal Bistro,Churchgate,South Mumbai,Biryani,Casual Dining,600,3.9,50,No,Yes,2005
+1892,Moon Junction,Dadar,Central Mumbai,Biryani,Cafe,450,3.7,151,No,No,2022
+1893,Maharaja Hub,Bandra,Western Suburbs,Continental,Quick Bites,650,3.8,383,Yes,No,2021
+1894,Coastal Treat,Powai,Central Mumbai,Continental,Bar & Lounge,2700,3.6,189,No,Yes,2013
+1895,Maharaja Junction,Sion,Central Mumbai,Mughlai,Bar & Lounge,1300,3.8,286,No,Yes,2014
+1896,Coastal Treat,Dadar,Central Mumbai,Fast Food,Bar & Lounge,550,3.0,37,No,Yes,2019
+1897,Little Express,Chembur,Harbour,Biryani,Cafe,250,3.3,120,Yes,No,2013
+1898,Moon Darbar,Juhu,Western Suburbs,Mughlai,Casual Dining,1050,4.0,74,Yes,No,2024
+1899,Tandoor Junction,Sion,Central Mumbai,North Indian,Casual Dining,800,3.1,10,Yes,No,2018
+1900,Golden Grill,Ghatkopar,Central Mumbai,Continental,Quick Bites,250,3.6,274,Yes,No,2013
+1901,Grand Tadka,Lower Parel,South Mumbai,Seafood,Quick Bites,600,4.8,562,Yes,No,2007
+1902,Spice Grill,Andheri,Western Suburbs,Chinese,Cafe,500,3.1,451,Yes,No,2005
+1903,Spice Corner,Goregaon,Western Suburbs,South Indian,Casual Dining,500,3.7,343,No,No,2024
+1904,Smoky Cafe,Colaba,South Mumbai,Seafood,Cafe,1250,3.6,77,No,No,2024
+1905,Desi Grill,Goregaon,Western Suburbs,North Indian,Quick Bites,300,2.6,128,No,No,2012
+1906,Sea Hub,Kurla,Central Mumbai,South Indian,Casual Dining,400,,200,Yes,Yes,2010
+1907,Spice House,Fort,South Mumbai,Bakery & Desserts,Bar & Lounge,1250,3.4,47,No,No,2023
+1908,Grand Hub,FORT ,South Mumbai,Bakery & Desserts,Quick Bites,200,3.1,106,Yes,No,2019
+1909,Golden Tadka,Borivali,Western Suburbs,Fast Food,Cafe,250,3.2,228,No,No,2018
+1910,Desi Junction,Chembur,Harbour,Japanese & Asian,Casual Dining,1150,4.1,149,Yes,Yes,2020
+1911,Smoky Tadka,Kurla,Central Mumbai,Seafood,Casual Dining,1000,3.4,117,No,Yes,2017
+1912,Bombay Treat,Powai,Central Mumbai,Seafood,Casual Dining,1300,3.6,405,Yes,No,2024
+1913,Sea House,Juhu,Western Suburbs,Continental,Bar & Lounge,3050,3.8,234,Yes,No,2021
+1914,Sea Cafe,Malad,Western Suburbs,Biryani,Quick Bites,300,2.7,269,Yes,No,2011
+1915,Desi Kitchen,Juhu,Western Suburbs,Fast Food,Quick Bites,250,3.4,50,Yes,No,2010
+1916,Desi Treat,Malad,Western Suburbs,Italian,Cafe,600,3.2,71,Yes,No,2011
+1917,Golden Corner,Lower Parel,South Mumbai,South Indian,Fine Dining,2500,4.3,163,No,Yes,2007
+1918,Grand Kitchen,Ghatkopar,Central Mumbai,Continental,Quick Bites,250,,64,Yes,No,2022
+1919,Maharaja Express,Fort,South Mumbai,Continental,Quick Bites,450,3.8,237,Yes,No,2024
+1920,Hungry Cafe,Fort,South Mumbai,South Indian,Cafe,550,3.9,118,No,No,2006
+1921,Desi Treat,Borivali,Western Suburbs,Continental,Quick Bites,250,3.5,102,Yes,No,2017
+1922,Maharaja Hub,Chembur,Harbour,South Indian,Casual Dining,650,4.1,127,Yes,No,2025
+1923,Maharaja Treat,POWAI ,Central Mumbai,North Indian,Casual Dining,750,3.7,285,No,No,2023
+1924,Bombay House,Kurla,Central Mumbai,Japanese & Asian,Quick Bites,400,3.0,76,Yes,No,2006
+1925,Golden Grill,Chembur,Harbour,North Indian,Quick Bites,250,3.5,246,Yes,No,2011
+1926,Royal Cafe,Powai,Central Mumbai,Italian,Casual Dining,1250,4.0,387,Yes,Yes,2020
+1927,Fresh Kitchen,Andheri,Western Suburbs,North Indian,Casual Dining,550,3.6,212,Yes,No,2013
+1928,Grand Corner,Thane,Thane,Mughlai,Casual Dining,800,3.2,69,Yes,Yes,2013
+1929,Moon Treat,Fort,South Mumbai,South Indian,Quick Bites,200,4.0,136,Yes,No,2008
+1930,Little Express,Dadar,Central Mumbai,Japanese & Asian,Quick Bites,350,3.6,219,Yes,No,2019
+1931,Grand Darbar,Vashi,Navi Mumbai,Bakery & Desserts,Bar & Lounge,750,3.7,128,No,No,2023
+1932,Little Tadka,Dadar,Central Mumbai,Bakery & Desserts,Quick Bites,200,,69,Yes,No,2010
+1933,Grand Darbar,Fort,South Mumbai,Street Food,Quick Bites,150,3.5,42,No,No,2009
+1934,Tandoor Express,Colaba,South Mumbai,Japanese & Asian,Quick Bites,700,3.9,88,Yes,No,2008
+1935,Moon Table,Dadar,Central Mumbai,South Indian,Cafe,400,4.1,243,No,No,2010
+1936,Spice House,Juhu,Western Suburbs,South Indian,Casual Dining,850,3.6,453,Yes,No,2020
+1937,Fresh Darbar,Andheri,Western Suburbs,Japanese & Asian,Bar & Lounge,1900,3.3,391,No,Yes,2016
+1938,Coastal Darbar,Kurla,Central Mumbai,Japanese & Asian,Casual Dining,850,3.8,461,Yes,No,2023
+1939,Desi Treat,Malad,Western Suburbs,Continental,Quick Bites,550,2.9,64,Yes,No,2019
+1940,Tandoor Junction,Thane,Thane,Japanese & Asian,Cafe,650,3.2,46,No,No,2007
+1941,Golden Kitchen,Sion,Central Mumbai,Chinese,Casual Dining,650,3.9,171,Yes,Yes,2007
+1942,Smoky Hub,Bandra,Western Suburbs,Fast Food,Casual Dining,750,3.5,293,Yes,Yes,2021
+1943,Moon Corner,Bandra,Western Suburbs,Seafood,Bar & Lounge,2600,3.5,42,Yes,No,2017
+1944,Fresh Kitchen,VASHI ,Navi Mumbai,Fast Food,Quick Bites,200,3.2,35,Yes,No,2014
+1945,Grand Grill,Colaba,South Mumbai,North Indian,Quick Bites,350,3.4,266,Yes,No,2009
+1946,Golden Table,Colaba,South Mumbai,Biryani,Cafe,650,3.7,38,No,No,2018
+1947,Moon Grill,Bandra,Western Suburbs,Japanese & Asian,Cafe,1500,4.2,123,Yes,No,2012
+1948,Royal Junction,Andheri,Western Suburbs,Street Food,Casual Dining,200,4.1,147,Yes,No,2009
+1949,Little Grill,Dadar,Central Mumbai,Fast Food,Cafe,300,3.8,376,Yes,No,2010
+1950,Hungry Cafe,Fort,South Mumbai,North Indian,Cafe,500,3.8,195,Yes,No,2018
+1951,Sea Cafe,Dadar,Central Mumbai,Fast Food,Quick Bites,100,3.0,87,Yes,No,2015
+1952,Sea Junction,Bandra,Western Suburbs,Mughlai,Bar & Lounge,4250,3.6,580,No,Yes,2009
+1953,Golden Tadka,Bandra,Western Suburbs,South Indian,Casual Dining,900,3.7,315,Yes,No,2009
+1954,Bombay Table,Kurla,Central Mumbai,Biryani,Casual Dining,550,3.0,120,Yes,No,2010
+1955,Sea Bistro,Goregaon,Western Suburbs,Japanese & Asian,Cafe,900,3.4,155,Yes,No,2024
+1956,Bombay Tadka,Malad,Western Suburbs,Mughlai,Cafe,550,4.2,79,No,No,2020
+1957,Golden Grill,Sion,Central Mumbai,Bakery & Desserts,Casual Dining,400,3.6,30,Yes,Yes,2010
+1958,Fresh Treat,Thane,Thane,Street Food,Casual Dining,200,3.5,49,No,No,2022
+1959,Golden Grill,Dadar,Central Mumbai,Italian,Quick Bites,500,3.1,210,Yes,No,2022
+1960,Urban Darbar,Andheri,Western Suburbs,South Indian,Bar & Lounge,1000,3.7,279,No,Yes,2008
+1961,Golden Hub,Bandra,Western Suburbs,Seafood,Bar & Lounge,2150,4.0,970,No,Yes,2024
+1962,Royal Hub,Ghatkopar,Central Mumbai,Street Food,Quick Bites,100,2.4,25,Yes,No,2021
+1963,Tandoor Table,Fort,South Mumbai,Continental,Quick Bites,400,3.6,91,Yes,No,2022
+1964,Royal Bistro,Borivali,Western Suburbs,Bakery & Desserts,Quick Bites,150,3.1,340,Yes,No,2024
+1965,Moon Tadka,Sion,Central Mumbai,Seafood,Bar & Lounge,2350,4.4,576,Yes,No,2015
+1966,Smoky Tadka,Kurla,Central Mumbai,Biryani,Quick Bites,250,3.6,1498,Yes,No,2006
+1967,Tandoor House,Dadar,Central Mumbai,Continental,Casual Dining,1300,3.9,308,Yes,Yes,2024
+1968,Smoky House,Thane,Thane,Biryani,Bar & Lounge,1200,3.6,49,No,Yes,2024
+1969,Hungry Palace,Colaba,South Mumbai,Chinese,Cafe,750,3.3,421,Yes,No,2020
+1970,Hungry Kitchen,Goregaon,Western Suburbs,Biryani,Casual Dining,550,3.5,287,Yes,Yes,2015
+1971,Desi Kitchen,Borivali,Western Suburbs,Street Food,Fine Dining,450,3.7,218,Yes,No,2016
+1972,Smoky Treat,Malad,Western Suburbs,Japanese & Asian,Quick Bites,550,4.0,480,Yes,No,2025
+1973,Coastal Bistro,Fort,South Mumbai,Biryani,Quick Bites,300,3.2,214,Yes,No,2013
+1974,Sea Table,Lower Parel,South Mumbai,Seafood,Cafe,1500,3.3,113,Yes,Yes,2005
+1975,Desi Table,Colaba,South Mumbai,Biryani,Fine Dining,2000,4.3,385,No,Yes,2021
+1976,Tandoor House,Goregaon,Western Suburbs,Japanese & Asian,Quick Bites,400,3.3,526,Yes,No,2023
+1977,Smoky Cafe,Churchgate,South Mumbai,South Indian,Casual Dining,400,3.5,79,Yes,No,2009
+1978,Bombay Treat,Borivali,Western Suburbs,Seafood,Cafe,550,3.4,114,Yes,Yes,2022
+1979,Urban Table,Juhu,Western Suburbs,Mughlai,Casual Dining,950,4.3,107,Yes,No,2016
+1980,Fresh Palace,Andheri,Western Suburbs,Continental,Cafe,700,4.0,125,No,No,2014
+1981,Urban Junction,Borivali,Western Suburbs,Mughlai,Casual Dining,850,3.2,369,No,No,2008
+1982,Sea Bistro,Kurla,Central Mumbai,Biryani,Cafe,350,3.3,215,No,No,2024
+1983,Hungry Corner,Chembur,Harbour,Italian,Quick Bites,400,3.1,61,Yes,No,2025
+1984,Golden Kitchen,Borivali,Western Suburbs,Bakery & Desserts,Quick Bites,100,3.2,128,No,No,2022
+1985,Smoky Palace,Ghatkopar,Central Mumbai,Mughlai,Casual Dining,700,3.6,232,Yes,Yes,2021
+1986,Sea Bistro,Malad,Western Suburbs,Street Food,Fine Dining,800,,167,No,No,2017
+1987,Urban Junction,Fort,South Mumbai,Fast Food,Bar & Lounge,850,3.5,483,No,Yes,2023
+1988,Coastal Express,Colaba,South Mumbai,Fast Food,Cafe,450,3.2,146,Yes,No,2019
+1989,Hungry Darbar,Borivali,Western Suburbs,Bakery & Desserts,Casual Dining,350,3.7,268,Yes,No,2010
+1990,Coastal Grill,Malad,Western Suburbs,Continental,Quick Bites,250,3.4,260,Yes,No,2019
+1991,Moon Express,Chembur,Harbour,Seafood,Quick Bites,450,3.2,231,Yes,No,2024
+1992,Hungry Kitchen,Vashi,Navi Mumbai,Mughlai,Casual Dining,900,3.8,85,Yes,No,2021
+1993,Coastal Cafe,Churchgate,South Mumbai,Japanese & Asian,Cafe,1300,3.8,53,No,No,2024
+1994,Coastal Hub,Juhu,Western Suburbs,Seafood,Casual Dining,1100,3.7,401,Yes,No,2005
+1995,Coastal Kitchen,Fort,South Mumbai,Continental,Casual Dining,1400,4.0,194,No,No,2022
+1996,Moon Hub,Thane,Thane,Biryani,Quick Bites,200,3.6,80,Yes,No,2022
+1997,Moon Junction,Churchgate,South Mumbai,Italian,Quick Bites,400,4.0,203,No,No,2011
+1998,Hungry Table,Borivali,Western Suburbs,Seafood,Cafe,550,2.8,198,No,No,2016
+1999,Smoky Tadka,Kurla,Central Mumbai,Italian,Quick Bites,350,2.9,46,Yes,No,2023
+2000,Desi Treat,Thane,Thane,Japanese & Asian,Quick Bites,400,3.2,89,Yes,No,2012
+2001,Moon Corner,Sion,Central Mumbai,Biryani,Cafe,450,3.2,175,Yes,No,2005
+2002,Maharaja Grill,Colaba,South Mumbai,Chinese,Casual Dining,700,3.6,164,Yes,Yes,2009
+2003,Little Junction,Goregaon,Western Suburbs,Mughlai,Casual Dining,950,3.6,657,Yes,No,2014
+2004,Smoky Kitchen,Thane,Thane,Mughlai,Cafe,450,3.7,123,Yes,No,2014
+2005,Tandoor Darbar,Sion,Central Mumbai,Mughlai,Quick Bites,250,3.8,221,Yes,No,2020
+2006,Grand Palace,Sion,Central Mumbai,Chinese,Casual Dining,800,3.8,94,No,No,2007
+2007,Bombay Cafe,Lower Parel,South Mumbai,Mughlai,Casual Dining,1550,3.9,145,No,No,2013
+2008,Bombay Cafe,Juhu,Western Suburbs,Seafood,Quick Bites,500,4.2,766,Yes,No,2008
+2009,Sea Hub,Colaba,South Mumbai,Chinese,Bar & Lounge,2350,3.5,357,No,Yes,2012
+2010,Tandoor Bistro,Goregaon,Western Suburbs,Continental,Cafe,850,3.8,662,Yes,No,2008
+2011,Little Tadka,Lower Parel,South Mumbai,Mughlai,Casual Dining,1550,3.7,234,No,Yes,2025
+2012,Spice Kitchen,Malad,Western Suburbs,Mughlai,Casual Dining,850,3.1,85,Yes,No,2014
+2013,Urban Corner,Lower Parel,South Mumbai,Street Food,Cafe,400,3.5,194,Yes,No,2019
+2014,Smoky Cafe,Sion,Central Mumbai,Bakery & Desserts,Fine Dining,750,3.6,131,Yes,Yes,2021
+2015,Hungry Cafe,Borivali,Western Suburbs,Seafood,Quick Bites,250,3.2,22,Yes,No,2008
+2016,Hungry Treat,Bandra,Western Suburbs,Chinese,Quick Bites,350,4.0,1349,Yes,No,2016
+2017,Royal Bistro,Colaba,South Mumbai,Mughlai,Casual Dining,1000,3.8,145,Yes,Yes,2020
+2018,Sea Treat,Andheri,Western Suburbs,Italian,Quick Bites,350,3.3,291,Yes,No,2019
+2019,Desi Bistro,Borivali,Western Suburbs,Continental,Bar & Lounge,1200,3.5,99,No,Yes,2009
+2020,Royal Palace,Ghatkopar,Central Mumbai,Continental,Cafe,750,3.8,364,No,Yes,2020
+2021,Urban Palace,Sion,Central Mumbai,Biryani,Cafe,550,,376,No,No,2022
+2022,Desi Cafe,BORIVALI ,Western Suburbs,Biryani,Casual Dining,500,4.2,283,Yes,Yes,2008
+2023,Golden Grill,Goregaon,Western Suburbs,Italian,Casual Dining,800,3.4,312,Yes,No,2013
+2024,Maharaja Corner,Vashi,Navi Mumbai,Fast Food,Casual Dining,400,3.1,48,No,No,2006
+2025,Little House,Lower Parel,South Mumbai,Seafood,Cafe,700,3.3,23,No,No,2008
+2026,Grand Grill,Malad,Western Suburbs,Biryani,Quick Bites,150,3.6,66,No,No,2008
+2027,Fresh Junction,Juhu,Western Suburbs,Seafood,Casual Dining,850,3.4,65,Yes,Yes,2007
+2028,Smoky Kitchen,Thane,Thane,South Indian,Quick Bites,150,3.5,114,Yes,No,2024
+2029,Grand Junction,Chembur,Harbour,Fast Food,Bar & Lounge,1150,3.2,85,No,No,2011
+2030,Smoky Palace,Lower Parel,South Mumbai,Bakery & Desserts,Fine Dining,1900,3.7,154,No,No,2006
+2031,Moon Express,Kurla,Central Mumbai,Seafood,Quick Bites,350,3.0,198,Yes,No,2006
+2032,Royal Darbar,Andheri,Western Suburbs,North Indian,Cafe,950,3.4,351,Yes,Yes,2023
+2033,Smoky Darbar,Dadar,Central Mumbai,South Indian,Casual Dining,600,4.2,153,Yes,Yes,2025
+2034,Royal Hub,Bandra,Western Suburbs,Chinese,Casual Dining,1050,3.7,159,Yes,Yes,2016
+2035,Tandoor House,Lower Parel,South Mumbai,Bakery & Desserts,Fine Dining,1250,4.0,409,No,Yes,2006
+2036,Smoky Junction,Malad,Western Suburbs,Mughlai,Casual Dining,450,3.4,218,No,No,2017
+2037,Little Darbar,Lower Parel,South Mumbai,Street Food,Cafe,500,3.6,134,Yes,Yes,2015
+2038,Fresh Palace,Bandra,Western Suburbs,Mughlai,Cafe,1100,4.0,778,Yes,No,2016
+2039,Golden House,Churchgate,South Mumbai,Seafood,Casual Dining,1500,3.4,104,No,Yes,2023
+2040,Fresh Cafe,ANDHERI ,Western Suburbs,Fast Food,Quick Bites,150,3.9,59,Yes,No,2010
+2041,Tandoor Darbar,Sion,Central Mumbai,Biryani,Casual Dining,550,3.8,122,No,No,2023
+2042,Sea Palace,Sion,Central Mumbai,Biryani,Quick Bites,150,4.0,130,No,No,2019
+2043,Coastal Treat,Andheri,Western Suburbs,Japanese & Asian,Quick Bites,450,,384,Yes,Yes,2025
+2044,Grand Grill,Dadar,Central Mumbai,Continental,Bar & Lounge,1800,3.9,179,No,Yes,2023
+2045,Little Darbar,Ghatkopar,Central Mumbai,Street Food,Quick Bites,100,3.5,37,Yes,No,2025
+2046,Moon House,Lower Parel,South Mumbai,Biryani,Cafe,700,2.9,17,No,No,2018
+2047,Urban Treat,Andheri,Western Suburbs,Chinese,Casual Dining,1100,3.5,79,Yes,No,2023
+2048,Fresh Palace,Chembur,Harbour,North Indian,Quick Bites,300,3.7,196,Yes,No,2022
+2049,Bombay Tadka,Dadar,Central Mumbai,South Indian,Fine Dining,800,3.0,173,Yes,Yes,2025
+2050,Grand Hub,Churchgate,South Mumbai,Japanese & Asian,Quick Bites,550,2.7,58,Yes,No,2007
+2051,Bombay Corner,Thane,Thane,Bakery & Desserts,Fine Dining,1550,4.0,303,No,Yes,2005
+2052,Spice Tadka,Chembur,Harbour,Seafood,Cafe,700,3.9,425,Yes,No,2008
+2053,Bombay Cafe,Chembur,Harbour,Italian,Casual Dining,1150,3.8,117,No,No,2025
+2054,Bombay Bistro,Powai,Central Mumbai,Biryani,Casual Dining,800,3.3,108,Yes,No,2014
+2055,Desi Tadka,GOREGAON ,Western Suburbs,Chinese,Casual Dining,550,3.6,301,Yes,Yes,2012
+2056,Little Cafe,Lower Parel,South Mumbai,Chinese,Casual Dining,1600,3.4,31,Yes,No,2018
+2057,Spice House,Goregaon,Western Suburbs,Continental,Casual Dining,900,3.8,605,Yes,No,2024
+2058,Urban Grill,Lower Parel,South Mumbai,North Indian,Fine Dining,4200,4.1,82,Yes,Yes,2010
+2059,Coastal Corner,Andheri,Western Suburbs,South Indian,Cafe,300,4.1,363,No,No,2018
+2060,Smoky Treat,Dadar,Central Mumbai,Chinese,Cafe,650,3.4,86,Yes,Yes,2023
+2061,Royal Palace,Lower Parel,South Mumbai,Japanese & Asian,Quick Bites,700,3.2,76,Yes,No,2013
+2062,Spice House,Andheri,Western Suburbs,Chinese,Quick Bites,400,3.7,875,Yes,No,2012
+2063,Maharaja Junction,Juhu,Western Suburbs,Fast Food,Casual Dining,450,3.9,345,Yes,No,2009
+2064,Spice Treat,Vashi,Navi Mumbai,Street Food,Bar & Lounge,900,3.0,27,No,Yes,2007
+2065,Coastal Hub,Dadar,Central Mumbai,Fast Food,Fine Dining,600,3.9,50,No,No,2012
+2066,Royal Palace,Kurla,Central Mumbai,South Indian,Casual Dining,450,3.3,47,Yes,No,2005
+2067,Fresh Table,Colaba,South Mumbai,Street Food,Casual Dining,500,3.5,113,No,Yes,2014
+2068,Royal House,Colaba,South Mumbai,Biryani,Quick Bites,500,4.1,54,Yes,No,2013
+2069,Maharaja Darbar,Andheri,Western Suburbs,Biryani,Bar & Lounge,1900,3.4,663,No,Yes,2007
+2070,Golden House,Colaba,South Mumbai,South Indian,Fine Dining,2250,3.4,297,No,Yes,2024
+2071,Sea House,Churchgate,South Mumbai,Biryani,Quick Bites,200,3.5,205,No,No,2023
+2072,Coastal House,Colaba,South Mumbai,Continental,Cafe,1000,3.9,73,No,No,2007
+2073,Fresh Bistro,Thane,Thane,Continental,Casual Dining,900,3.6,26,Yes,Yes,2011
+2074,Fresh Treat,Kurla,Central Mumbai,Continental,Quick Bites,300,3.8,104,Yes,No,2020
+2075,Hungry Cafe,Malad,Western Suburbs,South Indian,Quick Bites,200,3.5,332,Yes,No,2010
+2076,Desi Hub,Ghatkopar,Central Mumbai,Street Food,Quick Bites,100,3.5,52,No,No,2020
+2077,Moon Hub,Churchgate,South Mumbai,Chinese,Casual Dining,1300,3.3,90,No,No,2022
+2078,Smoky Tadka,Powai,Central Mumbai,Bakery & Desserts,Casual Dining,550,3.5,215,Yes,Yes,2012
+2079,Bombay Express,Andheri,Western Suburbs,Italian,Cafe,700,3.7,323,Yes,No,2005
+2080,Golden Cafe,Lower Parel,South Mumbai,Mughlai,Casual Dining,1700,4.4,83,Yes,No,2023
+2081,Grand Table,POWAI ,Central Mumbai,South Indian,Quick Bites,200,3.7,147,No,No,2014
+2082,Fresh Grill,Ghatkopar,Central Mumbai,Biryani,Fine Dining,1300,3.3,192,No,No,2010
+2083,Smoky Corner,Fort,South Mumbai,Biryani,Bar & Lounge,1750,4.2,382,Yes,Yes,2022
+2084,Golden Treat,Thane,Thane,Fast Food,Bar & Lounge,400,3.2,244,Yes,No,2006
+2085,Tandoor Bistro,Dadar,Central Mumbai,Fast Food,Quick Bites,100,3.4,74,Yes,No,2006
+2086,Grand House,Ghatkopar,Central Mumbai,Chinese,Bar & Lounge,1250,,80,No,Yes,2014
+2087,Little Palace,Colaba,South Mumbai,Bakery & Desserts,Fine Dining,1550,3.4,108,No,Yes,2009
+2088,Moon Palace,Vashi,Navi Mumbai,Seafood,Quick Bites,250,3.5,70,Yes,No,2008
+2089,Urban Hub,Juhu,Western Suburbs,Continental,Cafe,1300,3.9,155,Yes,No,2006
+2090,Urban Grill,Colaba,South Mumbai,Mughlai,Quick Bites,450,3.4,195,Yes,No,2005
+2091,Sea Palace,Dadar,Central Mumbai,Mughlai,Quick Bites,300,3.8,444,Yes,No,2018
+2092,Fresh Junction,Juhu,Western Suburbs,Japanese & Asian,Cafe,1300,3.6,146,No,No,2008
+2093,Moon Darbar,Juhu,Western Suburbs,Bakery & Desserts,Cafe,650,3.8,129,No,No,2014
+2094,Royal Palace,Colaba,South Mumbai,Bakery & Desserts,Quick Bites,200,3.8,288,No,No,2007
+2095,Moon Darbar,Kurla,Central Mumbai,Chinese,Casual Dining,750,3.9,157,Yes,No,2012
+2096,Grand Tadka,Andheri,Western Suburbs,Continental,Casual Dining,1400,3.3,111,No,Yes,2025
+2097,Bombay Darbar,Colaba,South Mumbai,Street Food,Fine Dining,1100,4.1,53,No,No,2019
+2098,Bombay Treat,Colaba,South Mumbai,Bakery & Desserts,Cafe,600,3.5,116,No,No,2020
+2099,Urban Kitchen,Malad,Western Suburbs,Biryani,Cafe,400,3.0,435,No,No,2010
+2100,Spice Kitchen,Powai,Central Mumbai,Seafood,Casual Dining,1050,3.6,814,Yes,No,2013
+2101,Coastal House,Lower Parel,South Mumbai,South Indian,Cafe,550,3.4,298,Yes,No,2022
+2102,Maharaja Palace,Ghatkopar,Central Mumbai,Mughlai,Casual Dining,800,3.4,94,Yes,Yes,2008
+2103,Moon Darbar,Dadar,Central Mumbai,Italian,Cafe,600,3.2,79,Yes,No,2016
+2104,Spice Express,Andheri,Western Suburbs,Street Food,Bar & Lounge,650,3.9,389,Yes,Yes,2005
+2105,Coastal Darbar,Lower Parel,South Mumbai,Bakery & Desserts,Bar & Lounge,1350,3.6,130,No,Yes,2008
+2106,Moon Bistro,Thane,Thane,Italian,Casual Dining,1100,3.8,82,Yes,Yes,2024
+2107,Moon Hub,Andheri,Western Suburbs,South Indian,Casual Dining,550,4.1,67,Yes,No,2025
+2108,Urban Hub,Churchgate,South Mumbai,Mughlai,Cafe,800,3.6,134,No,No,2013
+2109,Desi Table,Thane,Thane,Chinese,Casual Dining,400,3.4,43,No,Yes,2007
+2110,Grand Table,Malad,Western Suburbs,Biryani,Casual Dining,600,3.2,232,Yes,Yes,2014
+2111,Spice Treat,Ghatkopar,Central Mumbai,Chinese,Casual Dining,700,3.5,381,No,No,2008
+2112,Grand Kitchen,Goregaon,Western Suburbs,Street Food,Casual Dining,300,3.3,131,Yes,Yes,2024
+2113,Maharaja Kitchen,Dadar,Central Mumbai,Chinese,Quick Bites,200,3.5,287,No,No,2018
+2114,Golden Bistro,Fort,South Mumbai,Fast Food,Casual Dining,600,3.0,27,No,No,2010
+2115,Maharaja Treat,Goregaon,Western Suburbs,Continental,Casual Dining,1050,3.4,65,Yes,No,2016
+2116,Fresh House,Bandra,Western Suburbs,Chinese,Casual Dining,950,3.6,211,Yes,No,2015
+2117,Bombay Hub,Kurla,Central Mumbai,Mughlai,Quick Bites,200,3.4,106,Yes,No,2016
+2118,Sea Palace,Juhu,Western Suburbs,North Indian,Casual Dining,900,3.5,111,Yes,No,2017
+2119,Bombay Hub,CHURCHGATE ,South Mumbai,Chinese,Quick Bites,250,2.9,21,Yes,No,2009
+2120,Smoky Palace,Andheri,Western Suburbs,Japanese & Asian,Casual Dining,1350,3.6,189,Yes,No,2011
+2121,Little Express,Sion,Central Mumbai,Fast Food,Casual Dining,250,3.8,306,Yes,Yes,2016
+2122,Urban Express,Bandra,Western Suburbs,Biryani,Casual Dining,900,3.9,192,No,No,2018
+2123,Fresh Bistro,Vashi,Navi Mumbai,Italian,Casual Dining,1900,3.3,65,Yes,No,2005
+2124,Fresh Palace,Vashi,Navi Mumbai,Biryani,Quick Bites,250,3.0,19,Yes,No,2005
+2125,Moon Palace,Andheri,Western Suburbs,South Indian,Cafe,350,3.0,623,No,Yes,2011
+2126,Urban Darbar,Thane,Thane,Seafood,Cafe,800,3.7,82,No,Yes,2023
+2127,Little Kitchen,Chembur,Harbour,Bakery & Desserts,Casual Dining,500,3.2,36,No,Yes,2022
+2128,Fresh Hub,Borivali,Western Suburbs,Biryani,Fine Dining,1050,3.8,93,No,Yes,2012
+2129,Sea Hub,Ghatkopar,Central Mumbai,Mughlai,Fine Dining,1450,3.2,378,No,No,2025
+2130,Maharaja Bistro,Borivali,Western Suburbs,South Indian,Bar & Lounge,600,3.6,124,No,No,2014
+2131,Tandoor Table,Goregaon,Western Suburbs,Chinese,Casual Dining,650,4.1,345,Yes,No,2007
+2132,Tandoor Palace,Ghatkopar,Central Mumbai,Japanese & Asian,Quick Bites,350,3.0,50,Yes,No,2012
+2133,Little Table,Andheri,Western Suburbs,Japanese & Asian,Casual Dining,1350,3.2,82,No,Yes,2007
+2134,Tandoor Table,Borivali,Western Suburbs,South Indian,Quick Bites,150,3.3,203,Yes,No,2006
+2135,Smoky Table,Chembur,Harbour,Continental,Quick Bites,200,3.6,35,Yes,No,2022
+2136,Spice Cafe,Chembur,Harbour,Fast Food,Casual Dining,250,3.3,42,Yes,No,2020
+2137,Sea Table,Vashi,Navi Mumbai,Biryani,Casual Dining,800,3.7,67,Yes,Yes,2017
+2138,Moon Corner,Andheri,Western Suburbs,Mughlai,Cafe,750,3.6,111,No,No,2010
+2139,Desi House,Sion,Central Mumbai,Fast Food,Fine Dining,850,3.4,163,Yes,Yes,2011
+2140,Maharaja Tadka,Sion,Central Mumbai,Continental,Cafe,600,3.5,631,Yes,No,2024
+2141,Little House,Juhu,Western Suburbs,Fast Food,Casual Dining,600,3.4,82,Yes,No,2006
+2142,Golden Corner,Fort,South Mumbai,Biryani,Casual Dining,900,4.1,2729,Yes,No,2013
+2143,Maharaja Treat,Lower Parel,South Mumbai,Bakery & Desserts,Cafe,300,3.7,147,Yes,No,2009
+2144,Maharaja Darbar,Kurla,Central Mumbai,Japanese & Asian,Quick Bites,250,3.6,128,Yes,Yes,2008
+2145,Royal Kitchen,Juhu,Western Suburbs,Fast Food,Casual Dining,700,4.2,186,Yes,No,2020
+2146,Tandoor House,Borivali,Western Suburbs,Biryani,Quick Bites,200,3.5,389,Yes,No,2012
+2147,Urban Palace,Thane,Thane,Street Food,Quick Bites,100,3.3,117,No,No,2022
+2148,Sea Grill,Kurla,Central Mumbai,Continental,Casual Dining,950,3.8,207,Yes,No,2025
+2149,Grand Express,KURLA ,Central Mumbai,North Indian,Quick Bites,150,3.6,324,Yes,No,2025
+2150,Little House,Vashi,Navi Mumbai,Italian,Casual Dining,700,3.6,97,Yes,Yes,2020
+2151,Fresh Hub,Bandra,Western Suburbs,Street Food,Casual Dining,550,4.1,1290,Yes,No,2018
+2152,Fresh Kitchen,Lower Parel,South Mumbai,Seafood,Quick Bites,550,3.4,86,Yes,Yes,2011
+2153,Urban Cafe,Powai,Central Mumbai,South Indian,Bar & Lounge,950,3.9,412,No,Yes,2010
+2154,Fresh Bistro,Churchgate,South Mumbai,Bakery & Desserts,Fine Dining,1650,4.3,1208,No,Yes,2012
+2155,Grand Darbar,Bandra,Western Suburbs,Mughlai,Cafe,900,4.1,177,Yes,Yes,2017
+2156,Tandoor Corner,Kurla,Central Mumbai,Japanese & Asian,Casual Dining,900,3.6,80,No,Yes,2012
+2157,Fresh Hub,Lower Parel,South Mumbai,Mughlai,Casual Dining,2850,4.4,185,Yes,No,2021
+2158,Little Junction,Andheri,Western Suburbs,Chinese,Casual Dining,800,3.6,450,Yes,No,2012
+2159,Desi Bistro,Fort,South Mumbai,Bakery & Desserts,Quick Bites,250,3.9,357,No,No,2007
+2160,Tandoor Treat,Kurla,Central Mumbai,North Indian,Cafe,450,4.0,137,Yes,No,2007
+2161,Sea Grill,Juhu,Western Suburbs,Chinese,Quick Bites,350,3.3,93,Yes,No,2009
+2162,Golden Express,Goregaon,Western Suburbs,South Indian,Quick Bites,200,2.9,84,Yes,No,2012
+2163,Little Kitchen,Powai,Central Mumbai,Bakery & Desserts,Cafe,400,3.0,86,Yes,No,2014
+2164,Spice House,Ghatkopar,Central Mumbai,Continental,Quick Bites,200,3.5,131,Yes,No,2009
+2165,Fresh Hub,Borivali,Western Suburbs,Japanese & Asian,Quick Bites,500,,120,Yes,No,2007
+2166,Hungry Table,Fort,South Mumbai,Chinese,Quick Bites,350,,582,Yes,No,2017
+2167,Grand Table,Powai,Central Mumbai,Seafood,Casual Dining,2250,4.0,560,Yes,No,2012
+2168,Royal Palace,Thane,Thane,Continental,Casual Dining,850,2.7,113,No,Yes,2014
+2169,Sea Express,Colaba,South Mumbai,Biryani,Quick Bites,350,3.3,221,Yes,No,2011
+2170,Maharaja Grill,Colaba,South Mumbai,North Indian,Quick Bites,350,4.4,352,Yes,No,2019
+2171,Sea Darbar,Lower Parel,South Mumbai,Fast Food,Casual Dining,400,3.0,92,Yes,No,2024
+2172,Bombay Hub,Lower Parel,South Mumbai,Mughlai,Casual Dining,1400,3.3,179,No,No,2024
+2173,Maharaja Bistro,SION ,Central Mumbai,Biryani,Casual Dining,600,3.0,54,Yes,No,2011
+2174,Hungry Corner,JUHU ,Western Suburbs,Continental,Bar & Lounge,3000,3.9,159,No,No,2014
+2175,Royal Bistro,Lower Parel,South Mumbai,Mughlai,Casual Dining,3000,3.5,132,No,Yes,2015
+2176,Sea Bistro,Juhu,Western Suburbs,Seafood,Bar & Lounge,2600,3.7,49,No,No,2014
+2177,Smoky Kitchen,Juhu,Western Suburbs,Street Food,Quick Bites,100,3.8,100,Yes,No,2020
+2178,Maharaja Corner,Thane,Thane,Italian,Quick Bites,350,3.4,82,Yes,No,2008
+2179,Bombay Junction,Malad,Western Suburbs,Mughlai,Quick Bites,300,3.5,27,Yes,No,2018
+2180,Desi Grill,Thane,Thane,Chinese,Quick Bites,300,3.6,54,Yes,No,2021
+2181,Moon Grill,Juhu,Western Suburbs,Italian,Fine Dining,2850,3.2,52,No,Yes,2011
+2182,Royal Bistro,Colaba,South Mumbai,Continental,Bar & Lounge,3050,3.5,88,No,Yes,2006
+2183,Urban Cafe,Churchgate,South Mumbai,Street Food,Casual Dining,400,3.8,1102,No,Yes,2013
+2184,Little Corner,Malad,Western Suburbs,Continental,Fine Dining,2500,4.1,331,No,Yes,2023
+2185,Grand Palace,Colaba,South Mumbai,Street Food,Casual Dining,450,3.6,85,Yes,No,2005
+2186,Little Junction,Ghatkopar,Central Mumbai,Biryani,Casual Dining,600,3.3,661,Yes,No,2006
+2187,Hungry Express,Powai,Central Mumbai,Continental,Cafe,850,4.1,239,Yes,No,2016
+2188,Moon Junction,Chembur,Harbour,Japanese & Asian,Fine Dining,3350,3.9,196,No,Yes,2010
+2189,Bombay Table,Lower Parel,South Mumbai,Biryani,Quick Bites,250,3.7,159,Yes,No,2023
+2190,Hungry Cafe,Juhu,Western Suburbs,North Indian,Quick Bites,500,3.9,512,Yes,No,2019
+2191,Sea Treat,Churchgate,South Mumbai,Mughlai,Casual Dining,1100,3.6,289,Yes,No,2019
+2192,Spice Express,Powai,Central Mumbai,Mughlai,Cafe,750,4.1,745,Yes,No,2025
+2193,Hungry Darbar,Bandra,Western Suburbs,North Indian,Quick Bites,350,3.7,68,Yes,No,2019
+2194,Coastal Corner,Borivali,Western Suburbs,North Indian,Quick Bites,300,3.7,228,Yes,No,2014
+2195,Fresh Tadka,Ghatkopar,Central Mumbai,Japanese & Asian,Quick Bites,350,4.1,226,Yes,No,2021
+2196,Fresh House,Chembur,Harbour,Bakery & Desserts,Quick Bites,150,3.8,50,Yes,Yes,2010
+2197,Hungry Grill,Bandra,Western Suburbs,Bakery & Desserts,Casual Dining,950,4.1,201,No,No,2005
+2198,Spice Tadka,Churchgate,South Mumbai,Fast Food,Bar & Lounge,1100,3.3,105,No,Yes,2021
+2199,Grand Grill,Vashi,Navi Mumbai,Seafood,Bar & Lounge,1650,3.1,56,No,Yes,2013
+2200,Sea Junction,Borivali,Western Suburbs,Bakery & Desserts,Quick Bites,100,2.8,32,Yes,No,2008
+2201,Little Palace,Ghatkopar,Central Mumbai,Chinese,Quick Bites,350,3.4,31,No,No,2014
+2202,Urban Junction,Juhu,Western Suburbs,Italian,Fine Dining,3550,3.5,146,No,Yes,2023
+2203,Royal Grill,Andheri,Western Suburbs,Bakery & Desserts,Cafe,400,3.3,17,Yes,No,2010
+2204,Golden Corner,Vashi,Navi Mumbai,Seafood,Fine Dining,1900,3.7,1453,Yes,Yes,2014
+2205,Coastal Bistro,Malad,Western Suburbs,Mughlai,Bar & Lounge,2300,4.3,400,No,Yes,2015
+2206,Maharaja Kitchen,Vashi,Navi Mumbai,Bakery & Desserts,Casual Dining,400,2.9,318,Yes,Yes,2014
+2207,Desi Treat,Andheri,Western Suburbs,Italian,Casual Dining,1050,3.9,219,No,No,2008
+2208,Smoky Kitchen,Kurla,Central Mumbai,Fast Food,Casual Dining,250,3.3,26,No,No,2025
+2209,Maharaja House,Chembur,Harbour,Continental,Casual Dining,1800,3.3,110,Yes,No,2015
+2210,Desi Corner,Bandra,Western Suburbs,Continental,Cafe,2050,4.0,89,No,No,2022
+2211,Bombay Kitchen,Lower Parel,South Mumbai,Bakery & Desserts,Quick Bites,200,3.4,253,No,No,2015
+2212,Fresh Express,Powai,Central Mumbai,North Indian,Quick Bites,250,3.0,147,Yes,No,2016
+2213,Bombay Kitchen,Colaba,South Mumbai,Continental,Casual Dining,1600,3.7,191,Yes,No,2011
+2214,Tandoor Express,Kurla,Central Mumbai,Chinese,Quick Bites,150,3.7,345,Yes,No,2009
+2215,Tandoor Table,Colaba,South Mumbai,Continental,Fine Dining,4650,3.7,91,No,Yes,2015
+2216,Smoky Express,Churchgate,South Mumbai,Italian,Cafe,750,3.5,122,Yes,Yes,2019
+2217,Sea Junction,BORIVALI ,Western Suburbs,South Indian,Bar & Lounge,950,2.8,70,Yes,Yes,2020
+2218,Coastal Palace,Colaba,South Mumbai,Continental,Quick Bites,650,3.8,65,Yes,No,2011
+2219,Bombay Cafe,Colaba,South Mumbai,Bakery & Desserts,Quick Bites,500,3.6,240,No,No,2024
+2220,Fresh Kitchen,Colaba,South Mumbai,South Indian,Casual Dining,600,3.3,321,No,Yes,2009
+2221,Sea Bistro,Colaba,South Mumbai,Fast Food,Casual Dining,600,3.7,57,No,No,2012
+2222,Urban Kitchen,Goregaon,Western Suburbs,Italian,Casual Dining,1050,2.9,138,No,Yes,2015
+2223,Tandoor House,Chembur,Harbour,Chinese,Quick Bites,250,3.5,47,Yes,No,2017
+2224,Desi Tadka,Bandra,Western Suburbs,Street Food,Quick Bites,200,3.8,90,No,No,2013
+2225,Bombay Cafe,Powai,Central Mumbai,Japanese & Asian,Quick Bites,550,3.6,459,Yes,No,2025
+2226,Hungry Junction,Kurla,Central Mumbai,Continental,Bar & Lounge,1150,3.4,723,No,Yes,2017
+2227,Hungry Express,Ghatkopar,Central Mumbai,Italian,Quick Bites,250,3.0,165,Yes,No,2020
+2228,Spice House,Andheri,Western Suburbs,North Indian,Cafe,750,3.4,242,No,No,2019
+2229,Bombay Palace,Fort,South Mumbai,Street Food,Casual Dining,600,3.4,9,No,No,2015
+2230,Moon Kitchen,Ghatkopar,Central Mumbai,Fast Food,Cafe,350,3.5,471,Yes,No,2010
+2231,Hungry Express,Churchgate,South Mumbai,Fast Food,Cafe,350,3.7,294,Yes,No,2024
+2232,Urban Express,Vashi,Navi Mumbai,Bakery & Desserts,Quick Bites,200,3.0,58,Yes,No,2009
+2233,Desi Express,Lower Parel,South Mumbai,Italian,Quick Bites,500,3.4,108,Yes,No,2006
+2234,Sea Treat,Malad,Western Suburbs,Street Food,Casual Dining,350,3.6,155,Yes,No,2024
+2235,Desi Corner,Juhu,Western Suburbs,South Indian,Casual Dining,650,3.4,117,Yes,No,2022
+2236,Tandoor Express,Goregaon,Western Suburbs,Continental,Quick Bites,300,3.2,168,Yes,No,2010
+2237,Coastal Darbar,Kurla,Central Mumbai,Chinese,Bar & Lounge,950,3.2,48,No,Yes,2021
+2238,Sea Tadka,Andheri,Western Suburbs,Bakery & Desserts,Casual Dining,350,3.4,77,No,No,2011
+2239,Smoky Palace,Chembur,Harbour,Street Food,Casual Dining,500,2.9,44,No,Yes,2024
+2240,Golden Junction,Powai,Central Mumbai,Italian,Fine Dining,3200,4.5,325,No,No,2005
+2241,Little Darbar,Ghatkopar,Central Mumbai,Japanese & Asian,Casual Dining,1250,3.3,287,Yes,Yes,2019
+2242,Golden Table,Juhu,Western Suburbs,Japanese & Asian,Casual Dining,1650,,33,Yes,Yes,2019
+2243,Desi Tadka,Thane,Thane,North Indian,Casual Dining,600,3.7,110,No,No,2021
+2244,Maharaja Palace,Lower Parel,South Mumbai,South Indian,Casual Dining,600,3.6,43,Yes,No,2016
+2245,Hungry Darbar,Churchgate,South Mumbai,Mughlai,Quick Bites,300,3.6,309,Yes,No,2015
+2246,Desi Kitchen,Borivali,Western Suburbs,Fast Food,Cafe,150,4.0,378,Yes,Yes,2021
+2247,Smoky Bistro,Lower Parel,South Mumbai,Biryani,Quick Bites,350,3.9,597,Yes,No,2015
+2248,Moon Corner,Malad,Western Suburbs,Continental,Casual Dining,800,3.3,71,Yes,No,2019
+2249,Little Table,Chembur,Harbour,Biryani,Bar & Lounge,950,3.9,169,No,Yes,2007
+2250,Hungry Corner,Goregaon,Western Suburbs,Japanese & Asian,Fine Dining,3400,3.7,140,Yes,Yes,2017
+2251,Maharaja Treat,Thane,Thane,Bakery & Desserts,Cafe,250,3.8,286,Yes,No,2015
+2252,Royal Darbar,Kurla,Central Mumbai,South Indian,Casual Dining,350,3.5,237,Yes,Yes,2023
+2253,Moon Bistro,Lower Parel,South Mumbai,Continental,Bar & Lounge,2450,4.2,333,No,Yes,2023
+2254,Grand House,Juhu,Western Suburbs,Biryani,Bar & Lounge,1700,4.1,834,No,Yes,2018
+2255,Smoky Bistro,Vashi,Navi Mumbai,Fast Food,Quick Bites,100,3.3,108,Yes,No,2015
+2256,Grand Corner,Andheri,Western Suburbs,Chinese,Casual Dining,750,3.8,362,Yes,No,2020
+2257,Desi Tadka,Malad,Western Suburbs,Biryani,Fine Dining,1700,3.4,33,No,Yes,2022
+2258,Little Junction,Dadar,Central Mumbai,Italian,Casual Dining,1100,,362,Yes,No,2020
+2259,Hungry Grill,Churchgate,South Mumbai,North Indian,Fine Dining,1900,4.2,180,No,Yes,2014
+2260,Spice Kitchen,Thane,Thane,Italian,Bar & Lounge,2400,3.4,118,Yes,No,2010
+2261,Maharaja Darbar,Powai,Central Mumbai,Fast Food,Bar & Lounge,850,3.4,346,No,No,2011
+2262,Maharaja Table,Fort,South Mumbai,Chinese,Quick Bites,200,3.8,241,Yes,No,2016
+2263,Desi Corner,Bandra,Western Suburbs,Mughlai,Casual Dining,950,3.6,398,Yes,No,2007
+2264,Urban Darbar,Colaba,South Mumbai,Biryani,Quick Bites,500,3.3,231,Yes,No,2009
+2265,Fresh Treat,SION ,Central Mumbai,Mughlai,Casual Dining,1100,3.8,163,Yes,No,2005
+2266,Moon Palace,Sion,Central Mumbai,South Indian,Quick Bites,200,3.8,88,Yes,No,2007
+2267,Smoky Palace,Bandra,Western Suburbs,Bakery & Desserts,Quick Bites,300,3.4,67,Yes,No,2021
+2268,Golden Table,Bandra,Western Suburbs,Continental,Casual Dining,1250,3.9,147,Yes,No,2007
+2269,Tandoor Corner,Malad,Western Suburbs,Seafood,Cafe,650,2.9,306,Yes,Yes,2010
+2270,Maharaja Cafe,Lower Parel,South Mumbai,Biryani,Bar & Lounge,2650,4.0,131,No,Yes,2006
+2271,Little House,Bandra,Western Suburbs,Bakery & Desserts,Casual Dining,750,3.3,326,Yes,No,2023
+2272,Fresh Tadka,Ghatkopar,Central Mumbai,Japanese & Asian,Casual Dining,950,3.2,575,Yes,No,2021
+2273,Sea Express,Thane,Thane,Street Food,Cafe,200,4.0,294,Yes,No,2011
+2274,Moon Hub,Thane,Thane,Italian,Quick Bites,300,3.4,289,Yes,No,2011
+2275,Bombay Grill,Sion,Central Mumbai,Fast Food,Bar & Lounge,450,3.9,22,Yes,Yes,2021
+2276,Tandoor Express,Chembur,Harbour,Mughlai,Cafe,850,3.4,89,No,No,2022
+2277,Sea Tadka,ANDHERI ,Western Suburbs,Chinese,Cafe,750,3.6,114,No,No,2007
+2278,Maharaja Treat,Vashi,Navi Mumbai,Street Food,Bar & Lounge,500,3.8,50,No,No,2018
+2279,Grand Corner,Thane,Thane,Mughlai,Casual Dining,1150,3.6,393,No,No,2012
+2280,Hungry Cafe,Chembur,Harbour,Fast Food,Bar & Lounge,550,3.2,285,Yes,No,2011
+2281,Maharaja House,Kurla,Central Mumbai,Bakery & Desserts,Quick Bites,150,3.2,290,Yes,No,2013
+2282,Moon Cafe,Ghatkopar,Central Mumbai,Japanese & Asian,Casual Dining,900,3.7,355,Yes,No,2006
+2283,Sea Junction,Andheri,Western Suburbs,Japanese & Asian,Quick Bites,450,3.2,42,No,No,2007
+2284,Tandoor Grill,Goregaon,Western Suburbs,Japanese & Asian,Casual Dining,2050,3.4,156,No,Yes,2007
+2285,Maharaja Cafe,Ghatkopar,Central Mumbai,North Indian,Fine Dining,2100,3.6,166,No,Yes,2025
+2286,Coastal Grill,Goregaon,Western Suburbs,Bakery & Desserts,Cafe,200,3.5,48,No,No,2019
+2287,Coastal Table,Thane,Thane,Italian,Casual Dining,1050,3.6,222,No,No,2014
+2288,Hungry Treat,Powai,Central Mumbai,Bakery & Desserts,Quick Bites,250,3.8,336,No,No,2013
+2289,Moon Treat,Bandra,Western Suburbs,Mughlai,Casual Dining,1050,3.9,169,Yes,No,2014
+2290,Maharaja Grill,Malad,Western Suburbs,Fast Food,Casual Dining,200,3.3,662,No,No,2007
+2291,Sea House,Andheri,Western Suburbs,Biryani,Quick Bites,400,3.1,76,Yes,No,2011
+2292,Spice Cafe,Fort,South Mumbai,South Indian,Bar & Lounge,950,3.5,96,No,Yes,2006
+2293,Desi House,Andheri,Western Suburbs,South Indian,Casual Dining,450,3.5,1035,No,Yes,2007
+2294,Bombay Palace,Sion,Central Mumbai,Fast Food,Casual Dining,350,3.6,969,Yes,No,2019
+2295,Fresh Express,Lower Parel,South Mumbai,Mughlai,Casual Dining,1950,3.6,104,Yes,No,2023
+2296,Fresh Corner,Chembur,Harbour,Italian,Cafe,650,3.9,299,Yes,No,2020
+2297,Spice Darbar,Chembur,Harbour,Seafood,Cafe,550,3.0,131,Yes,No,2021
+2298,Sea Corner,Fort,South Mumbai,Street Food,Casual Dining,350,3.1,201,Yes,Yes,2024
+2299,Little Grill,Andheri,Western Suburbs,North Indian,Cafe,650,3.3,368,No,No,2006
+2300,Sea Cafe,Churchgate,South Mumbai,Street Food,Quick Bites,100,3.4,42,Yes,No,2012
+2301,Desi Palace,Powai,Central Mumbai,Italian,Fine Dining,3650,3.5,97,No,Yes,2011
+2302,Golden Bistro,Fort,South Mumbai,North Indian,Quick Bites,300,3.0,54,Yes,No,2012
+2303,Golden Darbar,Churchgate,South Mumbai,Street Food,Cafe,400,3.4,108,Yes,No,2023
+2304,Grand Table,Ghatkopar,Central Mumbai,Italian,Cafe,700,3.8,89,Yes,No,2007
+2305,Smoky Tadka,Ghatkopar,Central Mumbai,Continental,Quick Bites,450,3.7,479,Yes,No,2017
+2306,Little Table,Powai,Central Mumbai,Biryani,Bar & Lounge,1750,3.9,152,No,Yes,2011
+2307,Moon Palace,Goregaon,Western Suburbs,Italian,Casual Dining,1100,3.7,337,Yes,No,2018
+2308,Desi Palace,CHURCHGATE ,South Mumbai,Mughlai,Quick Bites,300,3.8,1123,Yes,No,2023
+2309,Spice Hub,Lower Parel,South Mumbai,Street Food,Quick Bites,150,3.6,28,Yes,No,2007
+2310,Moon House,Ghatkopar,Central Mumbai,South Indian,Quick Bites,100,4.0,230,Yes,No,2016
+2311,Bombay Bistro,Andheri,Western Suburbs,Street Food,Quick Bites,200,,516,Yes,No,2011
+2312,Maharaja Palace,Malad,Western Suburbs,Biryani,Quick Bites,100,3.8,728,Yes,No,2005
+2313,Fresh Tadka,Ghatkopar,Central Mumbai,Biryani,Quick Bites,200,3.4,116,Yes,No,2022
+2314,Hungry Cafe,Chembur,Harbour,Continental,Quick Bites,350,3.2,208,Yes,No,2021
+2315,Golden Corner,Colaba,South Mumbai,Bakery & Desserts,Casual Dining,1200,3.7,319,Yes,Yes,2023
+2316,Tandoor Darbar,Ghatkopar,Central Mumbai,North Indian,Quick Bites,200,3.3,83,Yes,No,2008
+2317,Golden Cafe,Thane,Thane,North Indian,Quick Bites,350,3.4,140,Yes,No,2013
+2318,Hungry Hub,Bandra,Western Suburbs,Mughlai,Casual Dining,1150,4.5,713,No,No,2007
+2319,Grand Express,Bandra,Western Suburbs,South Indian,Casual Dining,900,4.0,2329,No,No,2022
+2320,Smoky Grill,Thane,Thane,Biryani,Cafe,400,3.1,142,No,No,2015
+2321,Desi Hub,Bandra,Western Suburbs,Fast Food,Quick Bites,300,3.8,53,Yes,No,2016
+2322,Bombay Junction,Vashi,Navi Mumbai,Italian,Casual Dining,1050,,50,Yes,No,2015
+2323,Urban Tadka,Chembur,Harbour,Mughlai,Casual Dining,1000,3.4,57,Yes,No,2025
+2324,Maharaja Treat,Sion,Central Mumbai,Street Food,Casual Dining,400,3.7,10,Yes,Yes,2014
+2325,Urban Kitchen,Sion,Central Mumbai,South Indian,Casual Dining,400,3.1,138,Yes,No,2020
+2326,Royal Treat,Juhu,Western Suburbs,Fast Food,Quick Bites,200,3.4,129,Yes,No,2015
+2327,Golden Bistro,Vashi,Navi Mumbai,South Indian,Quick Bites,200,3.8,165,Yes,No,2011
+2328,Fresh Treat,Malad,Western Suburbs,Italian,Cafe,700,3.8,586,Yes,No,2022
+2329,Spice Junction,Fort,South Mumbai,Bakery & Desserts,Fine Dining,1650,3.3,80,Yes,Yes,2018
+2330,Bombay Darbar,Andheri,Western Suburbs,Seafood,Casual Dining,1200,3.8,87,Yes,Yes,2013
+2331,Fresh Cafe,Malad,Western Suburbs,Bakery & Desserts,Casual Dining,350,3.4,613,Yes,No,2020
+2332,Desi House,Thane,Thane,Bakery & Desserts,Casual Dining,400,3.6,739,Yes,No,2011
+2333,Golden Bistro,BORIVALI ,Western Suburbs,North Indian,Quick Bites,200,3.8,119,Yes,No,2024
+2334,Maharaja Corner,Sion,Central Mumbai,Seafood,Cafe,600,,651,Yes,Yes,2012
+2335,Grand Darbar,Kurla,Central Mumbai,South Indian,Quick Bites,100,3.5,156,Yes,No,2005
+2336,Desi Grill,Bandra,Western Suburbs,Seafood,Casual Dining,1150,3.5,155,Yes,Yes,2017
+2337,Royal Treat,Bandra,Western Suburbs,Biryani,Quick Bites,300,3.6,147,Yes,No,2019
+2338,Coastal Kitchen,Sion,Central Mumbai,Fast Food,Casual Dining,300,3.1,318,No,Yes,2007
+2339,Tandoor Darbar,Malad,Western Suburbs,Biryani,Cafe,400,3.3,50,No,No,2022
+2340,Smoky Darbar,Kurla,Central Mumbai,Street Food,Quick Bites,100,3.7,228,No,No,2021
+2341,Coastal Palace,Chembur,Harbour,Seafood,Casual Dining,1650,3.4,71,No,No,2015
+2342,Moon Darbar,Malad,Western Suburbs,Italian,Cafe,800,3.7,144,No,No,2025
+2343,Moon Hub,Colaba,South Mumbai,Continental,Casual Dining,1400,3.7,106,Yes,No,2014
+2344,Sea Hub,Bandra,Western Suburbs,South Indian,Casual Dining,800,3.6,106,Yes,Yes,2025
+2345,Hungry Bistro,Bandra,Western Suburbs,Biryani,Bar & Lounge,2500,4.1,663,Yes,No,2013
+2346,Desi Palace,Sion,Central Mumbai,North Indian,Fine Dining,2400,3.6,204,No,Yes,2021
+2347,Royal Corner,Colaba,South Mumbai,Italian,Cafe,750,2.9,186,No,No,2021
+2348,Smoky Table,Sion,Central Mumbai,North Indian,Casual Dining,1050,4.2,530,Yes,Yes,2010
+2349,Urban Table,Sion,Central Mumbai,Street Food,Fine Dining,650,3.2,293,Yes,No,2014
+2350,Tandoor Darbar,Bandra,Western Suburbs,Biryani,Casual Dining,750,3.5,481,Yes,No,2020
+2351,Fresh Corner,Malad,Western Suburbs,Biryani,Casual Dining,850,3.7,16,No,No,2011
+2352,Sea Treat,Powai,Central Mumbai,North Indian,Casual Dining,1300,3.9,320,No,Yes,2023
+2353,Grand Grill,Andheri,Western Suburbs,Fast Food,Bar & Lounge,750,4.4,60,No,Yes,2009
+2354,Hungry Treat,Juhu,Western Suburbs,Japanese & Asian,Cafe,1250,3.5,159,No,Yes,2008
+2355,Urban Junction,Chembur,Harbour,Fast Food,Quick Bites,100,3.2,343,Yes,No,2018
+2356,Spice Tadka,Andheri,Western Suburbs,North Indian,Quick Bites,300,3.7,232,Yes,No,2011
+2357,Sea Hub,Churchgate,South Mumbai,Japanese & Asian,Quick Bites,400,4.0,78,Yes,No,2019
+2358,Royal Express,Goregaon,Western Suburbs,Italian,Bar & Lounge,1600,3.8,71,No,Yes,2005
+2359,Maharaja House,Malad,Western Suburbs,Biryani,Cafe,350,3.3,54,Yes,No,2020
+2360,Hungry Junction,Lower Parel,South Mumbai,Mughlai,Casual Dining,1750,3.5,571,No,No,2020
+2361,Coastal Express,Borivali,Western Suburbs,Fast Food,Casual Dining,450,3.2,280,Yes,No,2018
+2362,Smoky Corner,Chembur,Harbour,Bakery & Desserts,Casual Dining,500,3.6,243,No,No,2011
+2363,Bombay Treat,Malad,Western Suburbs,Seafood,Casual Dining,1050,3.5,224,Yes,Yes,2005
+2364,Royal Tadka,CHURCHGATE ,South Mumbai,Fast Food,Casual Dining,350,3.7,105,No,No,2012
+2365,Golden Kitchen,Chembur,Harbour,Fast Food,Quick Bites,200,3.7,81,Yes,No,2020
+2366,Sea Grill,Lower Parel,South Mumbai,South Indian,Fine Dining,2200,3.7,325,No,Yes,2021
+2367,Maharaja Junction,LOWER PAREL ,South Mumbai,Fast Food,Quick Bites,250,3.6,326,Yes,No,2014
+2368,Grand Junction,Vashi,Navi Mumbai,North Indian,Quick Bites,200,3.8,356,Yes,No,2016
+2369,Spice Palace,Thane,Thane,North Indian,Casual Dining,550,3.9,164,Yes,No,2006
+2370,Coastal Bistro,Malad,Western Suburbs,Biryani,Quick Bites,250,3.5,36,Yes,No,2005
+2371,Smoky Grill,Powai,Central Mumbai,Chinese,Casual Dining,700,3.4,90,Yes,No,2025
+2372,Royal Tadka,Lower Parel,South Mumbai,Japanese & Asian,Quick Bites,750,3.8,210,Yes,No,2025
+2373,Bombay Darbar,Dadar,Central Mumbai,Continental,Cafe,500,3.2,159,Yes,No,2017
+2374,Royal Palace,Malad,Western Suburbs,North Indian,Quick Bites,200,3.8,474,Yes,No,2020
+2375,Maharaja Tadka,Andheri,Western Suburbs,Italian,Casual Dining,1150,3.4,192,Yes,No,2005
+2376,Tandoor Table,Colaba,South Mumbai,Fast Food,Quick Bites,200,4.1,149,Yes,No,2018
+2377,Smoky Grill,Juhu,Western Suburbs,North Indian,Quick Bites,550,,110,Yes,No,2008
+2378,Desi House,Andheri,Western Suburbs,Continental,Casual Dining,1250,3.5,163,No,No,2016
+2379,Bombay Express,Kurla,Central Mumbai,South Indian,Casual Dining,400,3.0,47,Yes,No,2025
+2380,Desi Kitchen,Fort,South Mumbai,Fast Food,Casual Dining,550,3.7,283,Yes,No,2006
+2381,Smoky Corner,Juhu,Western Suburbs,Italian,Cafe,1250,3.5,45,Yes,Yes,2008
+2382,Coastal Tadka,Colaba,South Mumbai,Chinese,Quick Bites,500,4.0,178,Yes,No,2006
+2383,Royal House,Sion,Central Mumbai,Bakery & Desserts,Bar & Lounge,950,3.6,241,No,No,2014
+2384,Golden House,Andheri,Western Suburbs,Seafood,Quick Bites,350,3.5,147,No,No,2014
+2385,Golden Hub,Juhu,Western Suburbs,Bakery & Desserts,Casual Dining,450,3.3,441,No,No,2025
+2386,Grand Cafe,Ghatkopar,Central Mumbai,Street Food,Casual Dining,350,3.2,285,Yes,No,2016
+2387,Royal Darbar,Kurla,Central Mumbai,Street Food,Casual Dining,250,3.0,54,Yes,No,2006
+2388,Smoky Hub,Powai,Central Mumbai,Bakery & Desserts,Casual Dining,750,3.2,89,Yes,No,2007
+2389,Little Tadka,Colaba,South Mumbai,South Indian,Quick Bites,200,3.7,187,No,No,2013
+2390,Golden Table,Kurla,Central Mumbai,Continental,Casual Dining,750,3.4,48,No,No,2005
+2391,Desi Palace,Dadar,Central Mumbai,South Indian,Fine Dining,1450,3.7,33,No,Yes,2022
+2392,Moon Palace,Chembur,Harbour,Fast Food,Casual Dining,200,3.2,180,Yes,Yes,2021
+2393,Fresh Table,Goregaon,Western Suburbs,Continental,Cafe,650,3.3,63,No,No,2007
+2394,Hungry Cafe,Andheri,Western Suburbs,Mughlai,Fine Dining,1850,3.5,104,Yes,Yes,2012
+2395,Urban Tadka,Sion,Central Mumbai,Street Food,Casual Dining,250,3.4,285,Yes,No,2014
+2396,Tandoor Darbar,Bandra,Western Suburbs,Japanese & Asian,Cafe,1500,3.8,215,Yes,No,2005
+2397,Golden Tadka,Ghatkopar,Central Mumbai,Bakery & Desserts,Quick Bites,100,3.3,76,Yes,No,2015
+2398,Urban Bistro,Kurla,Central Mumbai,Italian,Bar & Lounge,1950,4.2,134,No,Yes,2018
+2399,Maharaja Express,Chembur,Harbour,Biryani,Quick Bites,300,3.2,216,Yes,No,2011
+2400,Bombay House,Sion,Central Mumbai,Fast Food,Cafe,250,3.5,39,Yes,No,2016
+2401,Tandoor Tadka,Fort,South Mumbai,Fast Food,Cafe,200,3.7,58,No,No,2006
+2402,Bombay Hub,Goregaon,Western Suburbs,South Indian,Quick Bites,150,3.4,40,Yes,No,2016
+2403,Tandoor Hub,Fort,South Mumbai,Seafood,Quick Bites,800,3.9,544,Yes,No,2009
+2404,Golden Treat,Dadar,Central Mumbai,South Indian,Quick Bites,200,2.9,119,Yes,No,2017
+2405,Bombay Treat,LOWER PAREL ,South Mumbai,Street Food,Cafe,400,3.3,283,Yes,No,2015
+2406,Bombay Bistro,Thane,Thane,Seafood,Quick Bites,400,3.2,71,Yes,No,2020
+2407,Maharaja Darbar,Andheri,Western Suburbs,Mughlai,Cafe,700,3.5,383,No,No,2014
+2408,Royal Palace,Lower Parel,South Mumbai,Street Food,Fine Dining,1200,3.8,594,No,Yes,2007
+2409,Tandoor Tadka,Juhu,Western Suburbs,Italian,Quick Bites,350,4.1,381,Yes,No,2019
+2410,Urban Bistro,Chembur,Harbour,North Indian,Casual Dining,600,3.8,595,Yes,No,2010
+2411,Hungry Corner,Chembur,Harbour,Italian,Cafe,700,3.7,175,Yes,No,2008
+2412,Golden House,Churchgate,South Mumbai,Seafood,Quick Bites,400,3.7,2222,Yes,No,2007
+2413,Coastal Darbar,Chembur,Harbour,Continental,Quick Bites,300,3.5,41,Yes,No,2017
+2414,Fresh Palace,Colaba,South Mumbai,Chinese,Casual Dining,1200,4.1,367,Yes,No,2025
+2415,Tandoor Express,Juhu,Western Suburbs,Chinese,Cafe,800,3.2,90,Yes,No,2020
+2416,Bombay Tadka,Goregaon,Western Suburbs,Fast Food,Cafe,350,3.3,46,Yes,No,2015
+2417,Smoky Kitchen,Juhu,Western Suburbs,Chinese,Fine Dining,2750,3.6,162,No,Yes,2022
+2418,Spice House,Dadar,Central Mumbai,Mughlai,Fine Dining,2400,3.9,456,No,Yes,2009
+2419,Royal Table,Borivali,Western Suburbs,Seafood,Fine Dining,2400,3.6,708,No,Yes,2007
+2420,Smoky Palace,BORIVALI ,Western Suburbs,Chinese,Bar & Lounge,1000,3.5,124,Yes,Yes,2007
+2421,Moon Kitchen,Malad,Western Suburbs,Bakery & Desserts,Quick Bites,100,3.5,987,Yes,No,2011
+2422,Golden Junction,Vashi,Navi Mumbai,South Indian,Casual Dining,450,3.3,134,No,No,2005
+2423,Coastal Cafe,Sion,Central Mumbai,Seafood,Casual Dining,900,3.8,139,Yes,Yes,2007
+2424,Bombay Cafe,Dadar,Central Mumbai,Chinese,Casual Dining,450,3.5,184,Yes,No,2016
+2425,Smoky Kitchen,Chembur,Harbour,South Indian,Casual Dining,400,3.6,203,Yes,Yes,2013
+2426,Tandoor Treat,Andheri,Western Suburbs,Chinese,Cafe,550,,216,Yes,No,2015
+2427,Moon Kitchen,ANDHERI ,Western Suburbs,South Indian,Cafe,500,3.6,654,Yes,No,2020
+2428,Fresh Tadka,Malad,Western Suburbs,North Indian,Casual Dining,750,4.1,240,Yes,Yes,2011
+2429,Desi Treat,Vashi,Navi Mumbai,Bakery & Desserts,Cafe,400,,115,Yes,No,2019
+2430,Little Express,Chembur,Harbour,Bakery & Desserts,Fine Dining,1650,3.6,78,No,Yes,2023
+2431,Smoky Grill,Churchgate,South Mumbai,Japanese & Asian,Quick Bites,550,3.8,505,Yes,No,2005
+2432,Grand Bistro,Kurla,Central Mumbai,Continental,Casual Dining,500,3.7,684,Yes,Yes,2011
+2433,Urban Junction,Colaba,South Mumbai,North Indian,Fine Dining,2250,3.8,165,No,No,2020
+2434,Bombay Hub,Kurla,Central Mumbai,Mughlai,Casual Dining,650,3.7,75,Yes,No,2008
+2435,Maharaja Bistro,Lower Parel,South Mumbai,South Indian,Cafe,450,3.1,256,Yes,No,2020
+2436,Maharaja Darbar,Churchgate,South Mumbai,Mughlai,Cafe,400,3.2,104,Yes,No,2017
+2437,Bombay Table,Malad,Western Suburbs,Biryani,Casual Dining,750,3.9,308,No,No,2012
+2438,Smoky Express,Juhu,Western Suburbs,Italian,Casual Dining,1350,4.0,435,Yes,No,2015
+2439,Tandoor Darbar,Malad,Western Suburbs,Street Food,Quick Bites,100,3.6,96,Yes,No,2017
+2440,Spice Bistro,Ghatkopar,Central Mumbai,Seafood,Quick Bites,300,3.7,424,Yes,No,2023
+2441,Fresh Express,Borivali,Western Suburbs,Biryani,Casual Dining,250,3.5,343,Yes,Yes,2013
+2442,Smoky Table,Sion,Central Mumbai,Fast Food,Quick Bites,150,3.5,63,Yes,No,2014
+2443,Golden Kitchen,Vashi,Navi Mumbai,North Indian,Bar & Lounge,800,3.3,190,No,No,2008
+2444,Sea Tadka,Bandra,Western Suburbs,Japanese & Asian,Bar & Lounge,5000,3.9,113,Yes,Yes,2014
+2445,Urban Express,Colaba,South Mumbai,Mughlai,Quick Bites,300,3.1,130,Yes,No,2010
+2446,Sea Table,Colaba,South Mumbai,Bakery & Desserts,Casual Dining,600,3.8,446,No,No,2017
+2447,Maharaja Kitchen,Andheri,Western Suburbs,Street Food,Cafe,300,3.1,108,Yes,Yes,2009
+2448,Fresh Hub,Kurla,Central Mumbai,Mughlai,Cafe,550,3.2,150,No,No,2025
+2449,Bombay Hub,Lower Parel,South Mumbai,Fast Food,Casual Dining,650,3.8,303,Yes,No,2024
+2450,Tandoor Junction,Borivali,Western Suburbs,Japanese & Asian,Quick Bites,350,3.4,92,Yes,Yes,2025
+2451,Royal Kitchen,Bandra,Western Suburbs,Bakery & Desserts,Cafe,550,3.0,169,No,Yes,2010
+2452,Smoky Express,Churchgate,South Mumbai,Fast Food,Cafe,350,2.8,99,Yes,No,2011
+2453,Tandoor Treat,Sion,Central Mumbai,Continental,Quick Bites,400,3.5,76,Yes,No,2017
+2454,Desi Tadka,Goregaon,Western Suburbs,South Indian,Fine Dining,1050,3.2,66,Yes,Yes,2011
+2455,Urban Table,Powai,Central Mumbai,Mughlai,Cafe,550,3.7,74,No,No,2022
+2456,Fresh Cafe,Bandra,Western Suburbs,Chinese,Quick Bites,500,3.0,26,Yes,No,2012
+2457,Bombay Hub,Kurla,Central Mumbai,Street Food,Casual Dining,300,,297,Yes,No,2018
+2458,Grand Cafe,Kurla,Central Mumbai,Mughlai,Cafe,550,3.3,136,Yes,No,2018
+2459,Grand Hub,Malad,Western Suburbs,Japanese & Asian,Cafe,1200,3.5,127,Yes,No,2009
+2460,Coastal Corner,Goregaon,Western Suburbs,North Indian,Quick Bites,300,3.2,75,Yes,No,2010
+2461,Royal Treat,Kurla,Central Mumbai,Fast Food,Quick Bites,100,3.1,96,Yes,No,2020
+2462,Fresh Cafe,Malad,Western Suburbs,Chinese,Quick Bites,200,3.8,504,Yes,No,2006
+2463,Royal Cafe,Kurla,Central Mumbai,Continental,Cafe,650,3.2,398,Yes,No,2012
+2464,Golden Junction,Borivali,Western Suburbs,Fast Food,Quick Bites,150,3.2,58,Yes,No,2015
+2465,Tandoor Corner,Borivali,Western Suburbs,South Indian,Cafe,250,3.6,879,Yes,No,2013
+2466,Hungry Junction,Thane,Thane,Mughlai,Casual Dining,650,3.6,123,Yes,Yes,2015
+2467,Hungry Kitchen,Bandra,Western Suburbs,Continental,Cafe,1600,3.5,179,Yes,No,2013
+2468,Fresh Table,Thane,Thane,Continental,Cafe,700,3.6,763,Yes,No,2008
+2469,Sea Junction,Thane,Thane,Street Food,Casual Dining,250,3.8,554,Yes,Yes,2020
+2470,Desi Tadka,Goregaon,Western Suburbs,North Indian,Casual Dining,800,3.7,196,No,No,2023
+2471,Fresh Junction,Sion,Central Mumbai,Bakery & Desserts,Bar & Lounge,800,3.5,168,No,No,2020
+2472,Urban Junction,Powai,Central Mumbai,Chinese,Quick Bites,300,3.6,136,Yes,No,2024
+2473,Urban Grill,Lower Parel,South Mumbai,Fast Food,Cafe,500,3.4,190,Yes,No,2015
+2474,Fresh Table,Dadar,Central Mumbai,Biryani,Cafe,500,3.8,375,Yes,No,2022
+2475,Fresh Cafe,Juhu,Western Suburbs,Chinese,Casual Dining,750,3.9,56,Yes,Yes,2007
+2476,Maharaja Junction,Kurla,Central Mumbai,Bakery & Desserts,Casual Dining,250,3.0,77,Yes,No,2019
+2477,Urban Corner,Vashi,Navi Mumbai,Mughlai,Casual Dining,950,3.4,161,Yes,No,2020
+2478,Tandoor Cafe,Churchgate,South Mumbai,South Indian,Casual Dining,450,3.5,55,No,Yes,2018
+2479,Fresh Darbar,Dadar,Central Mumbai,Chinese,Quick Bites,300,3.9,391,No,No,2013
+2480,Tandoor Bistro,Borivali,Western Suburbs,Fast Food,Quick Bites,100,3.3,217,Yes,No,2015
+2481,Moon Bistro,Dadar,Central Mumbai,Biryani,Casual Dining,550,3.5,30,No,Yes,2014
+2482,Golden Junction,Churchgate,South Mumbai,Chinese,Cafe,900,3.9,47,Yes,No,2009
+2483,Smoky Cafe,Kurla,Central Mumbai,Street Food,Cafe,150,3.3,367,No,No,2019
+2484,Golden Corner,Lower Parel,South Mumbai,Bakery & Desserts,Quick Bites,250,4.1,231,Yes,No,2013
+2485,Urban Table,Borivali,Western Suburbs,Mughlai,Quick Bites,250,3.1,145,Yes,No,2009
+2486,Desi Corner,Kurla,Central Mumbai,North Indian,Bar & Lounge,800,3.6,87,No,Yes,2013
+2487,Grand House,Bandra,Western Suburbs,Mughlai,Cafe,1600,4.1,72,No,No,2012
+2488,Fresh Grill,CHEMBUR ,Harbour,Italian,Quick Bites,300,3.3,107,Yes,No,2008
+2489,Desi Bistro,Andheri,Western Suburbs,South Indian,Quick Bites,150,3.4,67,Yes,No,2021
+2490,Grand Palace,Borivali,Western Suburbs,Street Food,Casual Dining,200,3.7,320,Yes,Yes,2007
+2491,Hungry Cafe,Fort,South Mumbai,Mughlai,Casual Dining,1050,3.3,110,Yes,No,2019
+2492,Maharaja Bistro,Ghatkopar,Central Mumbai,North Indian,Casual Dining,800,3.1,88,No,No,2015
+2493,Coastal Kitchen,BORIVALI ,Western Suburbs,Fast Food,Casual Dining,400,3.5,87,Yes,Yes,2010
+2494,Little Express,Lower Parel,South Mumbai,Continental,Quick Bites,650,3.7,464,Yes,No,2008
+2495,Spice Cafe,Sion,Central Mumbai,Seafood,Quick Bites,300,4.1,385,No,No,2024
+2496,Maharaja House,Dadar,Central Mumbai,Biryani,Cafe,550,3.6,306,No,No,2021
+2497,Maharaja Express,Juhu,Western Suburbs,Fast Food,Quick Bites,150,3.5,186,Yes,No,2018
+2498,Urban Kitchen,Thane,Thane,Chinese,Cafe,500,3.9,300,Yes,No,2018
+2499,Desi Kitchen,Churchgate,South Mumbai,Continental,Quick Bites,400,2.6,327,No,No,2013
+1091,Coastal Tadka,Powai,Central Mumbai,Chinese,Quick Bites,350,3.9,362,Yes,Yes,2005
+1075,Tandoor Express,Colaba,South Mumbai,Bakery & Desserts,Fine Dining,2500,3.6,18,No,Yes,2012
+2264,Urban Darbar,Colaba,South Mumbai,Biryani,Quick Bites,500,3.3,231,Yes,No,2009
+1330,Maharaja House,Lower Parel,South Mumbai,Bakery & Desserts,Cafe,500,3.6,109,Yes,No,2012
+2349,Urban Table,Sion,Central Mumbai,Street Food,Fine Dining,650,3.2,293,Yes,No,2014
+1774,Bombay Kitchen,Malad,Western Suburbs,South Indian,Quick Bites,200,3.7,217,Yes,No,2020
+2038,Fresh Palace,Bandra,Western Suburbs,Mughlai,Cafe,1100,4.0,778,Yes,No,2016
+2285,Maharaja Cafe,Ghatkopar,Central Mumbai,North Indian,Fine Dining,2100,3.6,166,No,Yes,2025
+2165,Fresh Hub,Borivali,Western Suburbs,Japanese & Asian,Quick Bites,500,,120,Yes,No,2007
+1335,Sea Darbar,Lower Parel,South Mumbai,Chinese,Casual Dining,1000,3.7,107,Yes,Yes,2006
+1685,Urban Kitchen,Churchgate,South Mumbai,Continental,Quick Bites,250,4.0,441,Yes,No,2019
+1181,Grand Express,Sion,Central Mumbai,North Indian,Bar & Lounge,650,3.5,125,No,Yes,2021
+2220,Fresh Kitchen,Colaba,South Mumbai,South Indian,Casual Dining,600,3.3,321,No,Yes,2009
+1101,Tandoor Kitchen,Chembur,Harbour,Mughlai,Casual Dining,1950,4.0,117,No,No,2017
+1692,Coastal House,Chembur,Harbour,South Indian,Quick Bites,150,3.6,79,Yes,No,2009
+2126,Urban Darbar,Thane,Thane,Seafood,Cafe,800,3.7,82,No,Yes,2023
+1169,Little House,Bandra,Western Suburbs,Street Food,Bar & Lounge,950,3.7,144,No,Yes,2008
+1926,Royal Cafe,Powai,Central Mumbai,Italian,Casual Dining,1250,4.0,387,Yes,Yes,2020
+2295,Fresh Express,Lower Parel,South Mumbai,Mughlai,Casual Dining,1950,3.6,104,Yes,No,2023
+1414,Maharaja Tadka,Juhu,Western Suburbs,Street Food,Casual Dining,600,3.8,58,Yes,No,2015
+2410,Urban Bistro,Chembur,Harbour,North Indian,Casual Dining,600,3.8,595,Yes,No,2010
+2279,Grand Corner,THANE ,Thane,Mughlai,Casual Dining,1150,3.6,393,No,No,2012
+2464,Golden Junction,Borivali,Western Suburbs,Fast Food,Quick Bites,150,3.2,58,Yes,No,2015
+1808,Fresh Cafe,Bandra,Western Suburbs,Italian,Quick Bites,650,3.6,54,Yes,No,2010
+1102,Sea Corner,Fort,South Mumbai,Italian,Casual Dining,1400,3.7,235,Yes,No,2020
